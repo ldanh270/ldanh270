@@ -1,10 +1,20 @@
 # 💫 About Me
-I am a dedicated programmer with 3 years of experience in competitive programming, where I honed strong problem-solving and algorithmic thinking skills.  
-I am now focusing on advancing my career as a Web2/Web3 developer, working with modern technologies such as React, Next.js, Node.js, and TypeScript to build scalable and user-friendly applications.  
-I am also exploring Blockchain and smart contract development, aiming to deliver innovative, future-ready solutions.  
-Alongside that, I am an experienced testnet user and airdrop/retroactive hunter with 3 years in the crypto market.
-I have solid knowledge of consensus mechanisms (PoS, PoW, PoL) and hands-on experience with various DApps across DeFi, NFTs, cross-chain bridges, launchpads, yield farming, Layer 2 solutions, SocialFi, and GameFi.
-This blend of development skills and real DeFi usage helps me understand user needs, test blockchain products effectively, and stay ahead in the fast-evolving Web3 ecosystem.
+
+💻 **Dedicated Programmer | Web2/Web3 Developer | Crypto Enthusiast**
+
+- 🏆 **3+ years** of experience in **competitive programming**, sharpening my **problem-solving** and **algorithmic thinking** skills.  
+- 🚀 Currently focusing on **Web2/Web3 development**, building **scalable and user-friendly applications** using:
+  - **React**, **Next.js**, **Node.js**, **TypeScript**
+- 🔗 Exploring **Blockchain** and **Smart Contract Development**, aiming to deliver **innovative, future-ready solutions**.  
+- 🌐 **Crypto Testnet User & Airdrop/Retroactive Hunter** with **3 years in the market**, experienced in:
+  - **Consensus mechanisms:** PoS, PoW, PoL  
+  - **DApps usage:** DeFi, NFTs, cross-chain bridges, launchpads, yield farming, Layer 2 solutions, SocialFi, GameFi  
+
+✨ This unique blend of **development expertise** and **practical DeFi experience** helps me:
+- Better understand **user needs**  
+- **Thoroughly test blockchain products**  
+- Stay **ahead in the fast-evolving Web3 ecosystem**  
+
 
 ---
 
