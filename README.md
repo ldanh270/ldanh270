@@ -1,7 +1,21 @@
 # 💫 About Me:
 I am a dedicated programmer with 3 years of experience in competitive programming, where I honed strong problem-solving and algorithmic thinking skills.  
 I am now focusing on advancing my career as a Web2/Web3 developer, working with modern technologies such as React, Next.js, Node.js, and TypeScript to build scalable and user-friendly applications.  
-I am also exploring Blockchain and smart contract development, aiming to deliver innovative, future-ready solutions.
+I am also exploring Blockchain and smart contract development, aiming to deliver innovative, future-ready solutions.  
+Alongside that, I am an active **testnet user** and **airdrop/retroactive hunter** with 3 years of experience in the crypto market.  
+I have a strong understanding of consensus mechanisms such as **PoS (Proof of Stake)**, **PoW (Proof of Work)**, **PoL (Proof of Liquidity)**, and hands-on experience using various **DApps** across multiple fields, including:
+- **Lending & Borrowing protocols** (e.g., Aave, Compound)  
+- **Staking platforms** (ETH, SOL, AVAX, etc.)  
+- **DEX & Liquidity Providing** (Uniswap, Curve, PancakeSwap)  
+- **NFT marketplaces** (OpenSea, Blur, Magic Eden)  
+- **Cross-chain Bridges** (LayerZero, Stargate, Wormhole)  
+- **Launchpads & IDO platforms** (Galxe, Crew3, Binance Launchpad)  
+- **Yield Farming & DeFi aggregators** (Yearn Finance, Beefy)  
+- **Layer 2 solutions & Rollups** (Arbitrum, Optimism, zkSync, StarkNet)  
+- **SocialFi & GameFi** (Lens Protocol, Friend.tech, StepN, Axie Infinity)  
+
+This combination of development skills and practical DeFi experience allows me to better understand user needs, test blockchain products thoroughly, and stay ahead in the fast-evolving Web3 ecosystem.
+
 
 ---
 
@@ -30,12 +44,6 @@ I am also exploring Blockchain and smart contract development, aiming to deliver
 
 ### ⚙️ Backend Development
 - **Runtime & Frameworks:** ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
----
-
-### ⛓️ Blockchain & Web3
-- **Learning:** Solidity, Smart Contracts, dApp development (coming soon)
-- **Exploring:** Hardhat, Ethers.js, Web3.js
 
 ---
 
