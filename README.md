@@ -2,19 +2,9 @@
 I am a dedicated programmer with 3 years of experience in competitive programming, where I honed strong problem-solving and algorithmic thinking skills.  
 I am now focusing on advancing my career as a Web2/Web3 developer, working with modern technologies such as React, Next.js, Node.js, and TypeScript to build scalable and user-friendly applications.  
 I am also exploring Blockchain and smart contract development, aiming to deliver innovative, future-ready solutions.  
-Alongside that, I am an active **testnet user** and **airdrop/retroactive hunter** with 3 years of experience in the crypto market.  
-I have a strong understanding of consensus mechanisms such as **PoS (Proof of Stake)**, **PoW (Proof of Work)**, **PoL (Proof of Liquidity)**, and hands-on experience using various **DApps** across multiple fields, including:
-- **Lending & Borrowing protocols** (e.g., Aave, Compound)  
-- **Staking platforms** (ETH, SOL, AVAX, etc.)  
-- **DEX & Liquidity Providing** (Uniswap, Curve, PancakeSwap)  
-- **NFT marketplaces** (OpenSea, Blur, Magic Eden)  
-- **Cross-chain Bridges** (LayerZero, Stargate, Wormhole)  
-- **Launchpads & IDO platforms** (Galxe, Crew3, Binance Launchpad)  
-- **Yield Farming & DeFi aggregators** (Yearn Finance, Beefy)  
-- **Layer 2 solutions & Rollups** (Arbitrum, Optimism, zkSync, StarkNet)  
-- **SocialFi & GameFi** (Lens Protocol, Friend.tech, StepN, Axie Infinity)  
-
-This combination of development skills and practical DeFi experience allows me to better understand user needs, test blockchain products thoroughly, and stay ahead in the fast-evolving Web3 ecosystem.
+Alongside that, I am an experienced testnet user and airdrop/retroactive hunter with 3 years in the crypto market.
+I have solid knowledge of consensus mechanisms (PoS, PoW, PoL) and hands-on experience with various DApps across DeFi, NFTs, cross-chain bridges, launchpads, yield farming, Layer 2 solutions, SocialFi, and GameFi.
+This blend of development skills and real DeFi usage helps me understand user needs, test blockchain products effectively, and stay ahead in the fast-evolving Web3 ecosystem.
 
 ---
 
