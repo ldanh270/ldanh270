@@ -1,14 +1,14 @@
-# 💫 About Me
+<h1 align="center">
+👋 Hi, I'm Lê Đức Anh
+</h1>
 
-<div align="center">
-
-🎯 **Dedicated Programmer** • 💻 **Web2/Web3 Developer** • 🌐 **Crypto Enthusiast**
-
-</div>
+<p align="center">
+Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring Blockchain & Smart Contracts
+</p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 💫 About Me
 
 🏆 **3+ years** of experience in **competitive programming**, mastering *problem-solving* and *algorithmic thinking*.  
 
@@ -26,15 +26,6 @@
 
 ---
 
-<div align="center">
-
-✨ *Blending my development expertise with hands-on DeFi experience  
-to understand users, test products thoroughly, and stay ahead in the Web3 world.* ✨
-
-</div>
-
----
-
 ## 🌐 Socials
 <p align="center">
   <a href="https://facebook.com/ldanh270"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -44,11 +35,11 @@ to understand users, test products thoroughly, and stay ahead in the Web3 world.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <table>
 <tr>
-<td align="center"><b>🔤 Languages</b></td>
+<td align="center"><b>🏆 Competitive Programming</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
@@ -73,38 +64,20 @@ to understand users, test products thoroughly, and stay ahead in the Web3 world.
 </tr>
 
 <tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="25"/>
-</td>
-</tr>
-
-<tr>
 <td align="center"><b>🛠 Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="25"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldanh270&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ldanh270&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
