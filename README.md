@@ -10,17 +10,19 @@
 
 ## 👨‍💻 Who Am I?
 
-- 🏆 **3+ years** of experience in **competitive programming**, mastering  
-  🔹 *problem-solving* and *algorithmic thinking*.  
-- 🚀 Focused on **Web2/Web3 development**, building **scalable, user-friendly apps** with:  
+🏆 **3+ years** of experience in **competitive programming**, mastering *problem-solving* and *algorithmic thinking*.  
+
+🚀 Focused on **Web2/Web3 development**, building **scalable, user-friendly apps** with:  
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-- 🔗 Exploring **Blockchain** and **Smart Contracts**, aiming for **innovative, future-ready solutions**.  
-- 🌐 **Testnet User & Airdrop Hunter** with **3 years in crypto**, experienced in:
-  - 🔹 **Consensus mechanisms:** PoS, PoW, PoL  
-  - 🔹 **DApps:** DeFi, NFTs, Cross-chain Bridges, Launchpads, Yield Farming, Layer 2, SocialFi, GameFi  
+  
+🔗 Exploring **Blockchain** and **Smart Contracts**, aiming for **innovative, future-ready solutions**.  
+
+🌐 **Testnet User & Airdrop Hunter** with **3 years in crypto**, experienced in:
+  - **Consensus mechanisms:** PoS, PoW, PoL  
+  - **DApps:** DeFi, NFTs, Cross-chain Bridges, Launchpads, Yield Farming, Layer 2, SocialFi, GameFi  
 
 ---
 
