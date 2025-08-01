@@ -1,20 +1,35 @@
 # 💫 About Me
 
-💻 **Dedicated Programmer | Web2/Web3 Developer | Crypto Enthusiast**
+<div align="center">
 
-- 🏆 **3+ years** of experience in **competitive programming**, sharpening my **problem-solving** and **algorithmic thinking** skills.  
-- 🚀 Currently focusing on **Web2/Web3 development**, building **scalable and user-friendly applications** using:
-  - **React**, **Next.js**, **Node.js**, **TypeScript**
-- 🔗 Exploring **Blockchain** and **Smart Contract Development**, aiming to deliver **innovative, future-ready solutions**.  
-- 🌐 **Crypto Testnet User & Airdrop/Retroactive Hunter** with **3 years in the market**, experienced in:
-  - **Consensus mechanisms:** PoS, PoW, PoL  
-  - **DApps usage:** DeFi, NFTs, cross-chain bridges, launchpads, yield farming, Layer 2 solutions, SocialFi, GameFi  
+🎯 **Dedicated Programmer** • 💻 **Web2/Web3 Developer** • 🌐 **Crypto Enthusiast**
 
-✨ This unique blend of **development expertise** and **practical DeFi experience** helps me:
-- Better understand **user needs**  
-- **Thoroughly test blockchain products**  
-- Stay **ahead in the fast-evolving Web3 ecosystem**  
+</div>
 
+---
+
+## 👨‍💻 Who Am I?
+
+- 🏆 **3+ years** of experience in **competitive programming**, mastering  
+  🔹 *problem-solving* and *algorithmic thinking*.  
+- 🚀 Focused on **Web2/Web3 development**, building **scalable, user-friendly apps** with:  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+- 🔗 Exploring **Blockchain** and **Smart Contracts**, aiming for **innovative, future-ready solutions**.  
+- 🌐 **Testnet User & Airdrop Hunter** with **3 years in crypto**, experienced in:
+  - 🔹 **Consensus mechanisms:** PoS, PoW, PoL  
+  - 🔹 **DApps:** DeFi, NFTs, Cross-chain Bridges, Launchpads, Yield Farming, Layer 2, SocialFi, GameFi  
+
+---
+
+<div align="center">
+
+✨ *Blending my development expertise with hands-on DeFi experience  
+to understand users, test products thoroughly, and stay ahead in the Web3 world.* ✨
+
+</div>
 
 ---
 
