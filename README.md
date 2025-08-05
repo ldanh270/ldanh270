@@ -1,12 +1,9 @@
-<h1 align="center">
-👋 Hi, I'm Lê Đức Anh
-</h1>
-
-<p align="center">
-Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring Blockchain & Smart Contracts
-</p>
-
----
+  <h1 align="center" >
+    👋 Hi, I'm Lê Đức Anh
+  </h1>
+  <p align="center">
+    Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring Blockchain & Smart Contracts
+  </p>
 
 ## 💫 About Me
 
@@ -24,7 +21,6 @@ Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring
   - **Consensus mechanisms:** PoS, PoW, PoL  
   - **DApps:** DeFi, NFTs, Cross-chain Bridges, Launchpads, Yield Farming, Layer 2, SocialFi, GameFi  
 
----
 
 ## 🌐 Socials
 <p align="center">
@@ -32,8 +28,6 @@ Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring
   <a href="https://linkedin.com/in/ldanh270"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ducanhle.dn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -72,8 +66,6 @@ Passionate Web2/Web3 Developer | 3+ Years in Competitive Programming | Exploring
 </td>
 </tr>
 </table>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
