@@ -89,7 +89,7 @@ export const LeDucAnh = () => ({
 <td align="center" width="57%" style="border-right: 2px solid #47494e;">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ldanh270&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ldanh270&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" width="95%"/>
 
 </td>
 <td align="center" width="43%" style="">
