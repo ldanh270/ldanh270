@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFCC00&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I'm+Le+Duc+Anh;Passionate+Web2%2FWeb3+Developer;Experienced+in+Competitive+Programming;Exploring+Blockchain+%26+Smart+Contracts" alt="Typing SVG" /></a></p>
 
-# 🏆 ABOUT ME
+# ABOUT ME
 
 ```ts
 export const LeDucAnh = () => ({
@@ -23,7 +23,7 @@ export const LeDucAnh = () => ({
 
 <br>
 
-# 🌐 MY CONTACT
+# MY CONTACT
 
 <p align="center">
   <a href="https://facebook.com/ldanh270"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -38,7 +38,7 @@ export const LeDucAnh = () => ({
 </p>
 <br>
 
-# 💻 TECH STACKS
+# TECH STACKS
 
 <table>
 <tr>
@@ -82,26 +82,7 @@ export const LeDucAnh = () => ({
 
 <br>
 
-# 📊 STATS
+# MY STATS
 
-<table style="width:100%; border: 2px solid #47494e; border-radius: 10px;">
-<tr>
-<td align="center" width="57%" style="border-right: 2px solid #47494e;">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ldanh270&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" width="95%"/>
-
-</td>
-<td align="center" width="43%" style="">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldanh270&theme=tokyonight&layout=compact&hide_border=true&include_all_commits=true&count_private=true" width="95%"/>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center" style="">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldanh270&theme=tokyonight" width="95%"/>
-</td>
-</tr>
-</table>
+
