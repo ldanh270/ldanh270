@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFCC00&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I'm+Le+Duc+Anh;Passionate+Web2%2FWeb3+Developer;Experienced+in+Competitive+Programming;Exploring+Blockchain+%26+Smart+Contracts" alt="Typing SVG" /></a></p>
 
-# ABOUT ME
+<h1 align="center">ABOUT ME</h1>
 
 ```ts
 export const LeDucAnh = () => ({
@@ -23,7 +23,7 @@ export const LeDucAnh = () => ({
 
 <br>
 
-# MY CONTACT
+<h1 align="center">MY CONTACTS</h1>
 
 <p align="center">
   <a href="https://facebook.com/ldanh270"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
@@ -38,9 +38,9 @@ export const LeDucAnh = () => ({
 </p>
 <br>
 
-# TECH STACKS
+<h1 align="center">TECH STACKS</h1>
 
-<table>
+<table align="center">
 <tr>
 <td align="left"><b> Competitive Programming</b></td>
 <td>
@@ -82,7 +82,7 @@ export const LeDucAnh = () => ({
 
 <br>
 
-# MY STATS
+<h1 align="center">MY STATS</h1>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldanh270&theme=tokyonight" width="95%"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldanh270&theme=dark" width=100%/>
 
