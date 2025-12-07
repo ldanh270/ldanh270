@@ -84,5 +84,5 @@ export const LeDucAnh = () => ({
 
 <h1 align="center">MY STATS</h1>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldanh270&theme=dark" width=100%/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldanh270&theme=tokyonight" width=100%/>
 
