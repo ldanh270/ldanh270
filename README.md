@@ -1,4 +1,7 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFCC00&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I'm+Le+Duc+Anh;Passionate+Web2%2FWeb3+Developer;Experienced+in+Competitive+Programming;Exploring+Blockchain+%26+Smart+Contracts" alt="Typing SVG" /></a></p>
+   <h1 align="center" style="font-size: 100px;" >👋 Hi, I'm Lê Đức Anh</h1>
+  <p align="center">
+   Software Engineer | 5+ Years Competitive Programming | ReactJS, NextJS & Node.js Ecosystem
+  </p>
 
 <h1 align="center">ABOUT ME</h1>
 
