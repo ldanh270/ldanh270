@@ -1,6 +1,6 @@
    <h1 align="center" style="font-size: 100px;" >👋 Hi, I'm Lê Đức Anh</h1>
   <p align="center">
-   Software Engineer | 5+ Years Competitive Programming | ReactJS, NextJS & Node.js Ecosystem
+   Software Engineer | 3+ Years Competitive Programming | ReactJS, NextJS & Node.js Ecosystem
   </p>
 
 <h1 align="center">ABOUT ME</h1>
@@ -14,10 +14,10 @@ export const LeDucAnh = () => ({
 	university: "FPT University Da Nang",
 	major: "Software Engineering",
 	interests: [
-		"Blockchain",
-		"Web2/Web3 Development",
+		"Web Development",
 		"Competitive Programming",
-		"Smart Contracts",
+		"Blockchain",
+		"Embedded - Arduino"
 	],
 });
 ```
@@ -55,21 +55,27 @@ export const LeDucAnh = () => ({
 <tr>
 <td align="left"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
 </td>
 </tr>
 
 <tr>
-<td align="left"><b>Web3</b></td>
+<td align="left"><b>Backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" height="25"/>
 </td>
+</tr>
+
+<tr>
+  <td align="left"><b>Backend</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/>
+  </td>
 </tr>
 
 <tr>
