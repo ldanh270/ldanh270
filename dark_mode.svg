@@ -80,10 +80,10 @@
 
   <!-- code lines -->
 
-  <text x="460" y="80.0" font-size="12.0"><tspan fill="#bb9af7">export </tspan><tspan fill="#bb9af7">const </tspan><tspan fill="#7aa2f7">LeDucAnh</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#e0af68">Developer </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#c0caf5">() </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#c0caf5">({</tspan></text>
+  <text x="460" y="80.0" font-size="12.0"><tspan fill="#bb9af7">export </tspan><tspan fill="#bb9af7">const </tspan><tspan fill="#7aa2f7">LeDucAnh</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#e0af68">Engineer </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#c0caf5">() </tspan><tspan fill="#89ddff">=&gt; </tspan><tspan fill="#c0caf5">({</tspan></text>
   <text x="476" y="98.0" font-size="12.0"><tspan fill="#7dcfff">username</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;ldanh270&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
   <text x="476" y="116.0" font-size="12.0"><tspan fill="#7dcfff">fullName</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;Le Duc Anh&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
-  <text x="476" y="134.0" font-size="12.0"><tspan fill="#7dcfff">uptime</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;21y 169d 9h 26m&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
+  <text x="476" y="134.0" font-size="12.0"><tspan fill="#7dcfff">uptime</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;21y 169d 10h 11m&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
   <text x="476" y="152.0" font-size="12.0"><tspan fill="#7dcfff">location</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;Da Nang, Viet Nam&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
   <text x="476" y="170.0" font-size="12.0"><tspan fill="#7dcfff">company</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;Outfiz - Ohtez&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
   <text x="476" y="188.0" font-size="12.0"><tspan fill="#7dcfff">title</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#9ece6a">&quot;Full Stack Software Engineer&quot;</tspan><tspan fill="#c0caf5">,</tspan></text>
