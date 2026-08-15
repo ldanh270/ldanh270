@@ -141,4 +141,77 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 200.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,200 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                998 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+🌆 Daytime                2210 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
+🌃 Evening                2014 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+🌙 Night                  411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  965 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Wednesday                665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Thursday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Friday                   419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Saturday                 1123 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Sunday                   838 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               20 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+
+
+ Last Updated on 15/08/2026 10:17:15 UTC
 <!--END_SECTION:waka-->
