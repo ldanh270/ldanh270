@@ -243,10 +243,10 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
     uptime_str = get_uptime(BIRTH_DATE)
 
     code_lines = [
-        # export const LeDucAnh: Engineer = () => ({
+        # export const LeDucAnh: Developer = () => ({
         f'<text x="{cx}" y="{ln(0)}" font-size="{CODE_FONT}">'
         + tspan(kw_c, "export ") + tspan(kw_c, "const ") + tspan(fn_c, "LeDucAnh")
-        + tspan(punct_c, ": ") + tspan(type_c, "Engineer ")
+        + tspan(punct_c, ": ") + tspan(type_c, "Developer ")
         + tspan(sep_c, "= ") + tspan(punct_c, "() ") + tspan(sep_c, "=> ") + tspan(punct_c, "({")
         + "</text>",
 
@@ -260,9 +260,9 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         + tspan(prop_c, "fullName") + tspan(punct_c, ": ") + tspan(val_c, '"Le Duc Anh"') + tspan(punct_c, ",")
         + "</text>",
 
-        # uptime
+        # dateOfBirth
         f'<text x="{cx+16}" y="{ln(3)}" font-size="{CODE_FONT}">'
-        + tspan(prop_c, "uptime") + tspan(punct_c, ": ") + tspan(val_c, f'"{uptime_str}"') + tspan(punct_c, ",")
+        + tspan(prop_c, "dateOfBirth") + tspan(punct_c, ": ") + tspan(val_c, '"27/02/2005"') + tspan(punct_c, ",")
         + "</text>",
 
         # location
