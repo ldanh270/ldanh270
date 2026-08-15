@@ -138,7 +138,7 @@
 
 <br>
 
-<h1 align="center">⏱️ WAKATIME STATS</h1>
+<h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

@@ -80,7 +80,7 @@
 
   <!-- code lines -->
 
-  <text x="460" y="80.0" font-size="12.0"><tspan fill="#d73a49">export </tspan><tspan fill="#d73a49">const </tspan><tspan fill="#6f42c1">LeDucAnh</tspan><tspan fill="#24292e">: </tspan><tspan fill="#6f42c1">Engineer </tspan><tspan fill="#d73a49">= </tspan><tspan fill="#24292e">() </tspan><tspan fill="#d73a49">=&gt; </tspan><tspan fill="#24292e">({</tspan></text>
+  <text x="460" y="80.0" font-size="12.0"><tspan fill="#d73a49">export </tspan><tspan fill="#d73a49">const </tspan><tspan fill="#6f42c1">LeDucAnh</tspan><tspan fill="#24292e">: </tspan><tspan fill="#6f42c1">Developer </tspan><tspan fill="#d73a49">= </tspan><tspan fill="#24292e">() </tspan><tspan fill="#d73a49">=&gt; </tspan><tspan fill="#24292e">({</tspan></text>
   <text x="476" y="98.0" font-size="12.0"><tspan fill="#005cc5">username</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
   <text x="476" y="116.0" font-size="12.0"><tspan fill="#005cc5">fullName</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Le Duc Anh&quot;</tspan><tspan fill="#24292e">,</tspan></text>
   <text x="476" y="134.0" font-size="12.0"><tspan fill="#005cc5">dateOfBirth</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;27/02/2005&quot;</tspan><tspan fill="#24292e">,</tspan></text>
