@@ -88,6 +88,33 @@ def img_to_ascii(path: str, cols: int = 70, rows: int = 40, light: bool = False)
 
 
 
+from datetime import datetime, timezone, timedelta
+
+# ── Giờ Việt Nam (UTC+7) & Ngày sinh (27/02/2005 06:45:00) ────────────────────
+VN_TZ = timezone(timedelta(hours=7))
+BIRTH_DATE = datetime(2005, 2, 27, 6, 45, 0, tzinfo=VN_TZ)
+
+def get_uptime(birth: datetime) -> str:
+    now = datetime.now(VN_TZ)
+    years = now.year - birth.year
+    if (now.month, now.day, now.hour, now.minute) < (birth.month, birth.day, birth.hour, birth.minute):
+        years -= 1
+    try:
+        last_anniv = birth.replace(year=now.year)
+        if last_anniv > now:
+            last_anniv = birth.replace(year=now.year - 1)
+    except ValueError:
+        last_anniv = birth.replace(year=now.year, day=28)
+        if last_anniv > now:
+            last_anniv = birth.replace(year=now.year - 1, day=28)
+    
+    diff = now - last_anniv
+    days = diff.days
+    hours = diff.seconds // 3600
+    minutes = (diff.seconds % 3600) // 60
+    return f"{years}y {days}d {hours}h {minutes}m"
+
+
 def make_svg(lines: list[str], dark: bool = True) -> str:
     """Build the full SVG string."""
 
@@ -105,6 +132,7 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         arg_c     = "#c0caf5"
         kw_c      = "#bb9af7"   # export, const (purple)
         fn_c      = "#7aa2f7"   # LeDucAnh (blue)
+        type_c    = "#e0af68"   # Developer type (yellow/gold)
         prop_c    = "#7dcfff"   # object keys (cyan)
         val_c     = "#9ece6a"   # strings (green)
         sep_c     = "#89ddff"   # operators: =, :, () => ({
@@ -129,6 +157,7 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         arg_c     = "#24292e"
         kw_c      = "#d73a49"   # export, const (red)
         fn_c      = "#6f42c1"   # LeDucAnh (purple)
+        type_c    = "#6f42c1"   # Developer type (purple)
         prop_c    = "#005cc5"   # object keys (blue)
         val_c     = "#22863a"   # strings (green)
         sep_c     = "#d73a49"   # operators
@@ -142,7 +171,7 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         green_tl  = "#28c840"
 
     # ── layout constants ──────────────────────────────────────────────────────
-    W, H        = 980, 520
+    W, H        = 1000, 580
     MARGIN      = 14
     LEFT_W      = 420           # wider ASCII panel for more columns
     LEFT_H      = H - MARGIN*2
@@ -157,8 +186,8 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
     CHAR_W      = ASCII_FONT * 0.605
     LINE_H      = 12.5          # tighter line height for denser art
 
-    CODE_FONT   = 13.0          # code panel font size
-    CODE_LINE_H = 19.5          # code line height
+    CODE_FONT   = 12.0          # code panel font size
+    CODE_LINE_H = 18.0          # code line height
 
     # ── ASCII art: stretch to fill left panel ─────────────────────────────────
     usable_w  = LEFT_W - 2 * PAD
@@ -201,9 +230,9 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
 
     # ── code panel content (TypeScript) ───────────────────────────────────────
     cx  = RIGHT_X + 16
-    cy0 = MARGIN + TITLEBAR_H + 16 + CODE_LINE_H   # first code line y
+    cy0 = MARGIN + TITLEBAR_H + 14 + CODE_LINE_H   # first code line y
 
-    def ln(offset: int) -> int:
+    def ln(offset: float) -> int:
         return cy0 + int(offset * CODE_LINE_H)
 
     def tspan(fill: str, text: str) -> str:
@@ -211,10 +240,13 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
                     .replace('"', "&quot;"))
         return f'<tspan fill="{fill}">{safe}</tspan>'
 
+    uptime_str = get_uptime(BIRTH_DATE)
+
     code_lines = [
-        # export const LeDucAnh = () => ({
+        # export const LeDucAnh: Engineer = () => ({
         f'<text x="{cx}" y="{ln(0)}" font-size="{CODE_FONT}">'
-        + tspan(kw_c, "export ") + tspan(kw_c, "const ") + tspan(fn_c, "LeDucAnh ")
+        + tspan(kw_c, "export ") + tspan(kw_c, "const ") + tspan(fn_c, "LeDucAnh")
+        + tspan(punct_c, ": ") + tspan(type_c, "Engineer ")
         + tspan(sep_c, "= ") + tspan(punct_c, "() ") + tspan(sep_c, "=> ") + tspan(punct_c, "({")
         + "</text>",
 
@@ -228,81 +260,100 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         + tspan(prop_c, "fullName") + tspan(punct_c, ": ") + tspan(val_c, '"Le Duc Anh"') + tspan(punct_c, ",")
         + "</text>",
 
-        # location
+        # uptime
         f'<text x="{cx+16}" y="{ln(3)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "uptime") + tspan(punct_c, ": ") + tspan(val_c, f'"{uptime_str}"') + tspan(punct_c, ",")
+        + "</text>",
+
+        # location
+        f'<text x="{cx+16}" y="{ln(4)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "location") + tspan(punct_c, ": ") + tspan(val_c, '"Da Nang, Viet Nam"') + tspan(punct_c, ",")
         + "</text>",
 
-        # role
-        f'<text x="{cx+16}" y="{ln(4)}" font-size="{CODE_FONT}">'
-        + tspan(prop_c, "role") + tspan(punct_c, ": ") + tspan(val_c, '"Software Engineer"') + tspan(punct_c, ",")
+        # company
+        f'<text x="{cx+16}" y="{ln(5)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "company") + tspan(punct_c, ": ") + tspan(val_c, '"Outfiz - Ohtez"') + tspan(punct_c, ",")
+        + "</text>",
+
+        # title
+        f'<text x="{cx+16}" y="{ln(6)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "title") + tspan(punct_c, ": ") + tspan(val_c, '"Full Stack Software Engineer"') + tspan(punct_c, ",")
         + "</text>",
 
         # university
-        f'<text x="{cx+16}" y="{ln(5)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+16}" y="{ln(7)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "university") + tspan(punct_c, ": ") + tspan(val_c, '"FPT University Da Nang"') + tspan(punct_c, ",")
         + "</text>",
 
         # major
-        f'<text x="{cx+16}" y="{ln(6)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+16}" y="{ln(8)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "major") + tspan(punct_c, ": ") + tspan(val_c, '"Software Engineering"') + tspan(punct_c, ",")
         + "</text>",
 
-        # interests: [
-        f'<text x="{cx+16}" y="{ln(7)}" font-size="{CODE_FONT}">'
+        # specialties: [
+        f'<text x="{cx+16}" y="{ln(9)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "specialties") + tspan(punct_c, ": [")
         + "</text>",
 
-        #   "Web Development",
-        f'<text x="{cx+32}" y="{ln(8)}" font-size="{CODE_FONT}">'
-        + tspan(val_c, '"Web Development"') + tspan(punct_c, ",")
-        + "</text>",
-
-        #   "Competitive Programming",
-        f'<text x="{cx+32}" y="{ln(9)}" font-size="{CODE_FONT}">'
+        #   "Web Development", "Competitive Programming",
+        f'<text x="{cx+32}" y="{ln(10)}" font-size="{CODE_FONT}">'
+        + tspan(val_c, '"Web Development"') + tspan(punct_c, ", ")
         + tspan(val_c, '"Competitive Programming"') + tspan(punct_c, ",")
         + "</text>",
 
-        #   "Blockchain",
-        f'<text x="{cx+32}" y="{ln(10)}" font-size="{CODE_FONT}">'
-        + tspan(val_c, '"Blockchain"') + tspan(punct_c, ",")
-        + "</text>",
-        
-        #   "AI Integration",
+        #   "CI/CD", "AI Integration",
         f'<text x="{cx+32}" y="{ln(11)}" font-size="{CODE_FONT}">'
+        + tspan(val_c, '"CI/CD"') + tspan(punct_c, ", ")
         + tspan(val_c, '"AI Integration"') + tspan(punct_c, ",")
         + "</text>",
 
-        #   "System Design - CI/CD"
+        #   "Blockchain", "Embedded - Arduino"
         f'<text x="{cx+32}" y="{ln(12)}" font-size="{CODE_FONT}">'
-        + tspan(val_c, '"System Design - CI/CD"')
-        + "</text>",
-
-        #   "Embedded - Arduino"
-        f'<text x="{cx+32}" y="{ln(13)}" font-size="{CODE_FONT}">'
+        + tspan(val_c, '"Blockchain"') + tspan(punct_c, ", ")
         + tspan(val_c, '"Embedded - Arduino"')
         + "</text>",
 
         # ],
-        f'<text x="{cx+16}" y="{ln(14)}" font-size="{CODE_FONT}" fill="{punct_c}">],</text>',
+        f'<text x="{cx+16}" y="{ln(13)}" font-size="{CODE_FONT}" fill="{punct_c}">],</text>',
+
+        # socials: {
+        f'<text x="{cx+16}" y="{ln(14)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "socials") + tspan(punct_c, ": {")
+        + "</text>",
+
+        #   website
+        f'<text x="{cx+32}" y="{ln(15)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "website") + tspan(punct_c, ": ") + tspan(val_c, '"https://ldadev.vercel.app/"') + tspan(punct_c, ",")
+        + "</text>",
+
+        #   github
+        f'<text x="{cx+32}" y="{ln(16)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "github") + tspan(punct_c, ": ") + tspan(val_c, '"github.com/ldanh270"') + tspan(punct_c, ",")
+        + "</text>",
+
+        #   telegram
+        f'<text x="{cx+32}" y="{ln(17)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "telegram") + tspan(punct_c, ": ") + tspan(val_c, '"t.me/ldanh270"') + tspan(punct_c, ",")
+        + "</text>",
+
+        #   facebook
+        f'<text x="{cx+32}" y="{ln(18)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "facebook") + tspan(punct_c, ": ") + tspan(val_c, '"facebook.com/ldanh270"') + tspan(punct_c, ",")
+        + "</text>",
+
+        #   email
+        f'<text x="{cx+32}" y="{ln(19)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "email") + tspan(punct_c, ": ") + tspan(val_c, '"ducanhle.dn@gmail.com"') + tspan(punct_c, ",")
+        + "</text>",
+
+        # },
+        f'<text x="{cx+16}" y="{ln(20)}" font-size="{CODE_FONT}" fill="{punct_c}">}},</text>',
 
         # });
-        f'<text x="{cx}" y="{ln(15)}" font-size="{CODE_FONT}" fill="{punct_c}">}});</text>',
-
-        # blank line / separator comment
-        f'<text x="{cx}" y="{ln(15.5)}" font-size="{CODE_FONT}">'
-        + tspan(comment_c, "// ─── Contact & Socials ────────────────────────")
-        + "</text>",
-
-        # contact info
-        f'<text x="{cx}" y="{ln(16.7)}" font-size="{CODE_FONT}">'
-        + tspan(contact_c, "ducanhle.dn@gmail.com") + tspan(comment_c, " • ")
-        + tspan(contact_c, "github.com/ldanh270") + tspan(comment_c, " • ")
-        + tspan(contact_c, "t.me/ldanh270")
-        + "</text>",
+        f'<text x="{cx}" y="{ln(21)}" font-size="{CODE_FONT}" fill="{punct_c}">}});</text>',
     ]
 
-    cursor_y = ln(17)
+    cursor_y = ln(22.5)
 
     # ── assemble SVG ─────────────────────────────────────────────────────────
     mode_label = "dark" if dark else "light"
