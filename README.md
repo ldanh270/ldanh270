@@ -141,11 +141,9 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 200.7 kB Used in GitHub's Storage 
+> 📦 200.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,200 Contributions in the Year 2026
  > 
@@ -182,22 +180,52 @@ Sunday                   838 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown                 4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+JSON                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Python                   2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Java                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.55 % 
+Antigravity Desktop      7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Claude Code              5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+VS Code                  1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+obuz-agent               7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+ldanh270                 3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+study-assistant          3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+demo                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+obuz-be                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 hrs 39 mins (99.97%)
+
+✍️ 14,379 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 7,604,941 Input Tokens, 732,349 Output Tokens
+
+💵 $96.34 Estimated AI Cost This Week
+
+🧠 37 AI Sessions, 296 AI Prompts
+
+GPT                      7,347 lines         ████████████░░░░░░░░░░░░░   49.43 % 
+Sonnet                   6,178 lines         ██████████░░░░░░░░░░░░░░░   41.57 % 
+Gemini                   1,337 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,917 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -213,5 +241,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 10:17:15 UTC
+ Last Updated on 16/08/2026 01:16:33 UTC
 <!--END_SECTION:waka-->
