@@ -23,3 +23,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_SHORT_INFO: "true"
           SHOW_LOC_CHART: "false"
+          BAR_STYLE: "svg"
