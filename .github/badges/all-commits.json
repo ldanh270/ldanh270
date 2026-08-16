@@ -3,6 +3,6 @@
   "label": "All Commits",
   "message": "updating",
   "color": "green",
-  "logo": "github",
+  "namedLogo": "github",
   "logoColor": "white"
 }

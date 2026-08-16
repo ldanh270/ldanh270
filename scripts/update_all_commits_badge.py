@@ -87,7 +87,7 @@ def main() -> None:
         "label": "All Commits",
         "message": f"{total_commits:,}",
         "color": "green",
-        "logo": "github",
+        "namedLogo": "github",
         "logoColor": "white",
     }
     BADGE_PATH.parent.mkdir(parents=True, exist_ok=True)
