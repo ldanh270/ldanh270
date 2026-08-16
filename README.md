@@ -53,7 +53,9 @@
 <td align="left"><b>Frontend</b></td>
 <td>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Electron.js-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="25"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="25"/>
@@ -90,7 +92,10 @@
 <td align="left"><b>CI/CD</b></td>
 <td>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Caddy-%2300ADD8.svg?style=for-the-badge&logo=caddy&logoColor=white" height="25"/>
