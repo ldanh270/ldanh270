@@ -1,10 +1,13 @@
 <h1 align="center" style="font-size: 100px;">👋 Hi there, I'm Lê Đức Anh</h1>
 <p align="center">
-  Software Engineer | Fullstack Developer
+  Software Engineer | Competitive Programming | Fullstack Developer
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ldanh270&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ldanh270?style=flat-square&label=Followers&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ldanh270?style=flat-square&label=Total%20Stars&color=yellow&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fldanh270%2Fldanh270%2Fmain%2F.github%2Fbadges%2Fall-commits.json&style=flat-square" alt="All Commits" />
 </p>
 
 <h1 align="center">ABOUT ME</h1>

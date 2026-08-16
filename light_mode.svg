@@ -87,24 +87,28 @@
   <text x="476" y="152.0" font-size="12.0"><tspan fill="#005cc5">location</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Da Nang, Viet Nam&quot;</tspan><tspan fill="#24292e">,</tspan></text>
   <text x="476" y="170.0" font-size="12.0"><tspan fill="#005cc5">company</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Outfiz - Ohtez&quot;</tspan><tspan fill="#24292e">,</tspan></text>
   <text x="476" y="188.0" font-size="12.0"><tspan fill="#005cc5">title</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Full Stack Software Engineer&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="206.0" font-size="12.0"><tspan fill="#005cc5">university</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;FPT University Da Nang&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="224.0" font-size="12.0"><tspan fill="#005cc5">major</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Software Engineering&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="242.0" font-size="12.0"><tspan fill="#005cc5">specialties</tspan><tspan fill="#24292e">: [</tspan></text>
-  <text x="492" y="260.0" font-size="12.0"><tspan fill="#22863a">&quot;Web Development&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Competitive Programming&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="278.0" font-size="12.0"><tspan fill="#22863a">&quot;CI/CD&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;AI Integration&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="296.0" font-size="12.0"><tspan fill="#22863a">&quot;Blockchain&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Embedded - Arduino&quot;</tspan></text>
-  <text x="476" y="314.0" font-size="12.0" fill="#24292e">],</text>
-  <text x="476" y="332.0" font-size="12.0"><tspan fill="#005cc5">socials</tspan><tspan fill="#24292e">: {</tspan></text>
-  <text x="492" y="350.0" font-size="12.0"><tspan fill="#005cc5">website</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;https://ldadev.vercel.app/&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="368.0" font-size="12.0"><tspan fill="#005cc5">github</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;github.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="386.0" font-size="12.0"><tspan fill="#005cc5">telegram</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;t.me/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="404.0" font-size="12.0"><tspan fill="#005cc5">facebook</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;facebook.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="422.0" font-size="12.0"><tspan fill="#005cc5">email</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;ducanhle.dn@gmail.com&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="440.0" font-size="12.0" fill="#24292e">},</text>
-  <text x="460" y="458.0" font-size="12.0" fill="#24292e">});</text>
+  <text x="476" y="206.0" font-size="12.0"><tspan fill="#005cc5">education</tspan><tspan fill="#24292e">: {</tspan></text>
+  <text x="492" y="224.0" font-size="12.0"><tspan fill="#005cc5">highSchool</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Hoang Hoa Tham high school&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="242.0" font-size="12.0"><tspan fill="#005cc5">university</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;FPT University Da Nang&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="476" y="260.0" font-size="12.0" fill="#24292e">},</text>
+  <text x="476" y="278.0" font-size="12.0"><tspan fill="#005cc5">major</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Software Engineering&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="476" y="296.0" font-size="12.0"><tspan fill="#005cc5">specialties</tspan><tspan fill="#24292e">: [</tspan></text>
+  <text x="492" y="314.0" font-size="12.0"><tspan fill="#22863a">&quot;Web Development&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Competitive Programming&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="332.0" font-size="12.0"><tspan fill="#22863a">&quot;CI/CD&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;AI Integration&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="350.0" font-size="12.0"><tspan fill="#22863a">&quot;Blockchain&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Embedded - Arduino&quot;</tspan></text>
+  <text x="476" y="368.0" font-size="12.0" fill="#24292e">],</text>
+  <text x="476" y="386.0" font-size="12.0"><tspan fill="#005cc5">socials</tspan><tspan fill="#24292e">: {</tspan></text>
+  <text x="492" y="404.0" font-size="12.0"><tspan fill="#005cc5">website</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;https://ldadev.vercel.app/&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="422.0" font-size="12.0"><tspan fill="#005cc5">github</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;github.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="440.0" font-size="12.0"><tspan fill="#005cc5">linkedin</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;linkedin.com/in/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="458.0" font-size="12.0"><tspan fill="#005cc5">telegram</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;t.me/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="476.0" font-size="12.0"><tspan fill="#005cc5">facebook</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;facebook.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="492" y="494.0" font-size="12.0"><tspan fill="#005cc5">email</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;ducanhle.dn@gmail.com&quot;</tspan><tspan fill="#24292e">,</tspan></text>
+  <text x="476" y="512.0" font-size="12.0" fill="#24292e">},</text>
+  <text x="460" y="530.0" font-size="12.0" fill="#24292e">});</text>
 
   <!-- blinking cursor -->
-  <rect x="460" y="472.0" width="8" height="15" rx="1" fill="#0366d6">
+  <rect x="460" y="544.0" width="8" height="15" rx="1" fill="#0366d6">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 

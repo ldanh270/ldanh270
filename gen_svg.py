@@ -280,80 +280,98 @@ def make_svg(lines: list[str], dark: bool = True) -> str:
         + tspan(prop_c, "title") + tspan(punct_c, ": ") + tspan(val_c, '"Full Stack Software Engineer"') + tspan(punct_c, ",")
         + "</text>",
 
-        # university
+        # education: {
         f'<text x="{cx+16}" y="{ln(7)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "education") + tspan(punct_c, ": {")
+        + "</text>",
+
+        #   highSchool
+        f'<text x="{cx+32}" y="{ln(8)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "highSchool") + tspan(punct_c, ": ") + tspan(val_c, '"Hoang Hoa Tham high school"') + tspan(punct_c, ",")
+        + "</text>",
+
+        #   university
+        f'<text x="{cx+32}" y="{ln(9)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "university") + tspan(punct_c, ": ") + tspan(val_c, '"FPT University Da Nang"') + tspan(punct_c, ",")
         + "</text>",
 
+        # },
+        f'<text x="{cx+16}" y="{ln(10)}" font-size="{CODE_FONT}" fill="{punct_c}">}},</text>',
+
         # major
-        f'<text x="{cx+16}" y="{ln(8)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+16}" y="{ln(11)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "major") + tspan(punct_c, ": ") + tspan(val_c, '"Software Engineering"') + tspan(punct_c, ",")
         + "</text>",
 
         # specialties: [
-        f'<text x="{cx+16}" y="{ln(9)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+16}" y="{ln(12)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "specialties") + tspan(punct_c, ": [")
         + "</text>",
 
         #   "Web Development", "Competitive Programming",
-        f'<text x="{cx+32}" y="{ln(10)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(13)}" font-size="{CODE_FONT}">'
         + tspan(val_c, '"Web Development"') + tspan(punct_c, ", ")
         + tspan(val_c, '"Competitive Programming"') + tspan(punct_c, ",")
         + "</text>",
 
         #   "CI/CD", "AI Integration",
-        f'<text x="{cx+32}" y="{ln(11)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(14)}" font-size="{CODE_FONT}">'
         + tspan(val_c, '"CI/CD"') + tspan(punct_c, ", ")
         + tspan(val_c, '"AI Integration"') + tspan(punct_c, ",")
         + "</text>",
 
         #   "Blockchain", "Embedded - Arduino"
-        f'<text x="{cx+32}" y="{ln(12)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(15)}" font-size="{CODE_FONT}">'
         + tspan(val_c, '"Blockchain"') + tspan(punct_c, ", ")
         + tspan(val_c, '"Embedded - Arduino"')
         + "</text>",
 
         # ],
-        f'<text x="{cx+16}" y="{ln(13)}" font-size="{CODE_FONT}" fill="{punct_c}">],</text>',
+        f'<text x="{cx+16}" y="{ln(16)}" font-size="{CODE_FONT}" fill="{punct_c}">],</text>',
 
         # socials: {
-        f'<text x="{cx+16}" y="{ln(14)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+16}" y="{ln(17)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "socials") + tspan(punct_c, ": {")
         + "</text>",
 
         #   website
-        f'<text x="{cx+32}" y="{ln(15)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(18)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "website") + tspan(punct_c, ": ") + tspan(val_c, '"https://ldadev.vercel.app/"') + tspan(punct_c, ",")
         + "</text>",
 
         #   github
-        f'<text x="{cx+32}" y="{ln(16)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(19)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "github") + tspan(punct_c, ": ") + tspan(val_c, '"github.com/ldanh270"') + tspan(punct_c, ",")
         + "</text>",
 
+        #   linkedin
+        f'<text x="{cx+32}" y="{ln(20)}" font-size="{CODE_FONT}">'
+        + tspan(prop_c, "linkedin") + tspan(punct_c, ": ") + tspan(val_c, '"in/ldanh270"') + tspan(punct_c, ",")
+        + "</text>",
+
         #   telegram
-        f'<text x="{cx+32}" y="{ln(17)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(21)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "telegram") + tspan(punct_c, ": ") + tspan(val_c, '"t.me/ldanh270"') + tspan(punct_c, ",")
         + "</text>",
 
         #   facebook
-        f'<text x="{cx+32}" y="{ln(18)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(22)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "facebook") + tspan(punct_c, ": ") + tspan(val_c, '"facebook.com/ldanh270"') + tspan(punct_c, ",")
         + "</text>",
 
         #   email
-        f'<text x="{cx+32}" y="{ln(19)}" font-size="{CODE_FONT}">'
+        f'<text x="{cx+32}" y="{ln(23)}" font-size="{CODE_FONT}">'
         + tspan(prop_c, "email") + tspan(punct_c, ": ") + tspan(val_c, '"ducanhle.dn@gmail.com"') + tspan(punct_c, ",")
         + "</text>",
 
         # },
-        f'<text x="{cx+16}" y="{ln(20)}" font-size="{CODE_FONT}" fill="{punct_c}">}},</text>',
+        f'<text x="{cx+16}" y="{ln(24)}" font-size="{CODE_FONT}" fill="{punct_c}">}},</text>',
 
         # });
-        f'<text x="{cx}" y="{ln(21)}" font-size="{CODE_FONT}" fill="{punct_c}">}});</text>',
+        f'<text x="{cx}" y="{ln(25)}" font-size="{CODE_FONT}" fill="{punct_c}">}});</text>',
     ]
 
-    cursor_y = ln(22.5)
+    cursor_y = ln(26.5)
 
     # ── assemble SVG ─────────────────────────────────────────────────────────
     mode_label = "dark" if dark else "light"
