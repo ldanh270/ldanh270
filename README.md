@@ -192,52 +192,52 @@ Sunday                   860 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Python                   2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Java                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+TypeScript               5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Markdown                 4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+JSON                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Python                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+C#                       1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
-Antigravity Desktop      7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Claude Code              4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Antigravity Desktop      7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.50 % 
+Codex Vscode             4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Claude Code              4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+VS Code                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🐱‍💻 Projects: 
-obuz-agent               7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-ldanh270                 4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-demo                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-obuz-be                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-obuz                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+obuz-agent               7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.62 % 
+ldanh270                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+obuz-be                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+obuz                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+obuz-fe                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
-Windows                  21 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 5 mins (98.99%)
+⏱ AI Coding Time: 17 hrs 21 mins (98.77%)
 
-✍️ 13,998 lines written by AI, 18 lines written by hand (99.87% AI-written)
+✍️ 12,138 lines written by AI, 18 lines written by hand (99.85% AI-written)
 
-🔤 6,629,429 Input Tokens, 680,187 Output Tokens
+🔤 4,552,117 Input Tokens, 480,911 Output Tokens
 
-💵 $88.11 Estimated AI Cost This Week
+💵 $60.64 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 251 AI Prompts
+🧠 19 AI Sessions, 183 AI Prompts
 
-GPT                      7,020 lines         ████████████░░░░░░░░░░░░░   48.78 % 
-Sonnet                   6,170 lines         ███████████░░░░░░░░░░░░░░   42.87 % 
-Gemini                   1,202 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Sonnet                   6,170 lines         ████████████░░░░░░░░░░░░░   49.27 % 
+GPT                      5,151 lines         ██████████░░░░░░░░░░░░░░░   41.13 % 
+Gemini                   1,202 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 5,215 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 5,241 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -253,5 +253,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 01:13:14 UTC
+ Last Updated on 20/08/2026 01:12:57 UTC
 <!--END_SECTION:waka-->
