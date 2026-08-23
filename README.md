@@ -192,47 +192,44 @@ Sunday                   860 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   1 hr 33 mins        █████████████░░░░░░░░░░░░   53.45 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.01 % 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-Antigravity Desktop      2 hrs 3 mins        ██████████████████░░░░░░░   70.63 % 
-Codex Vscode             30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Codex Vscode             30 mins             ██████████████░░░░░░░░░░░   55.10 % 
+VS Code                  17 mins             ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 
 🐱‍💻 Projects: 
-ldanh270                 2 hrs 53 mins       █████████████████████████   98.92 % 
-integrated-hr-and-product1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+ldanh270                 55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (92.59%)
+⏱ AI Coding Time: 43 mins (77.48%)
 
-✍️ 356 lines written by AI, 18 lines written by hand (95.19% AI-written)
+✍️ 175 lines written by AI, 18 lines written by hand (90.67% AI-written)
 
 🔤 295,989 Input Tokens, 51,589 Output Tokens
 
 💵 $1.58 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 40 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-GPT                      175 lines           ███████████░░░░░░░░░░░░░░   43.97 % 
-Gemini                   140 lines           █████████░░░░░░░░░░░░░░░░   35.18 % 
-Sonnet                   83 lines            █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+GPT                      175 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.19% of written lines came from AI
-📚 Verbose Prompter — average 1,820 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.92% of changed lines were hand-edited
+🤖 AI-Driven — 90.67% of written lines came from AI
+📚 Verbose Prompter — average 3,319 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 15.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,5 +245,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:12:29 UTC
+ Last Updated on 23/08/2026 01:17:54 UTC
 <!--END_SECTION:waka-->
