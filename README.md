@@ -95,9 +95,8 @@
 <td align="left"><b>CI/CD</b></td>
 <td>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Cloudflare_R2-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/R2-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="25"/>
