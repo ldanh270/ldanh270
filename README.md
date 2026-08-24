@@ -156,7 +156,7 @@
 
 > 📦 201.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,247 Contributions in the Year 2026
+> 🏆 1,249 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -167,21 +167,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-🌆 Daytime                2233 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌃 Evening                2034 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌙 Night                  413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+🌞 Morning                1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+🌆 Daytime                2233 commits        ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌃 Evening                2036 commits        █████████░░░░░░░░░░░░░░░░   35.76 % 
+🌙 Night                  413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Tuesday                  971 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Wednesday                672 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Tuesday                  971 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                672 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Thursday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Friday                   425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Saturday                 1124 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Sunday                   860 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Friday                   425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Saturday                 1124 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Sunday                   862 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 
 
@@ -191,44 +191,52 @@ Sunday                   860 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 20 mins             █████████░░░░░░░░░░░░░░░░   37.01 % 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TypeScript               14 hrs 13 mins      ████████████░░░░░░░░░░░░░   48.25 % 
+Java                     6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Markdown                 6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+C#                       21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Codex Vscode             30 mins             ██████████████░░░░░░░░░░░   55.10 % 
-VS Code                  17 mins             ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Antigravity Desktop      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Antigravity Desktop      14 hrs 52 mins      █████████████░░░░░░░░░░░░   50.48 % 
+Codex Vscode             9 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.68 % 
+VS Code                  5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 
 🐱‍💻 Projects: 
-ldanh270                 55 mins             █████████████████████████   100.00 % 
+obuz-agent               11 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.04 % 
+igs-sfa-be               6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+ldanh270                 4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+portfolio                2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Unknown Project          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  29 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (77.48%)
+⏱ AI Coding Time: 29 hrs 28 mins (100.0%)
 
-✍️ 175 lines written by AI, 18 lines written by hand (90.67% AI-written)
+✍️ 7,960 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 295,989 Input Tokens, 51,589 Output Tokens
+🔤 16,638,210 Input Tokens, 1,117,733 Output Tokens
 
-💵 $1.58 Estimated AI Cost This Week
+💵 $84.42 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 73 AI Sessions, 476 AI Prompts
 
-GPT                      175 lines           █████████████████████████   100.00 % 
+GPT                      8,791 lines         ████████████████████████░   96.80 % 
+Gemini                   219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Antigravity-Desktop      40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Sonnet                   32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.67% of written lines came from AI
-📚 Verbose Prompter — average 3,319 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.05% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 10,514 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -244,5 +252,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 01:17:54 UTC
+ Last Updated on 24/08/2026 01:16:03 UTC
 <!--END_SECTION:waka-->
