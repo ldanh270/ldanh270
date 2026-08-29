@@ -1,115 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-  width="1000" height="580" viewBox="0 0 1000 580"
+  width="448" height="580" viewBox="0 0 448 580"
+  role="img" aria-labelledby="title desc"
   font-family="'Cascadia Code','Fira Code','Consolas',monospace">
+  <title id="title">ASCII portrait of Lê Đức Anh</title>
+  <desc id="desc">A character-based portrait with the handle @ldanh270.</desc>
 
-  <!-- outer card -->
-  <rect width="1000" height="580" rx="16" fill="#f0f2f5"/>
-
-  <!-- ── LEFT: ASCII art panel ── -->
+  <rect width="448" height="580" rx="16" fill="#f0f2f5"/>
   <rect x="14" y="14" width="420" height="552"
         rx="12" fill="#e1e4e8"/>
 
-  <!-- ASCII art rows -->
-
   <text x="22.0" y="35.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                                    .....                             </text>
-  <text x="22.0" y="48.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                                 ...     ..                           </text>
-  <text x="22.0" y="61.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                               ..   .`^&quot;`   .....                     </text>
-  <text x="22.0" y="74.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                             ..  ^+fUwhomr!.     .                    </text>
-  <text x="22.0" y="87.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            .  l\b$$$$$$$$$~I+&lt;;.                     </text>
-  <text x="22.0" y="100.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                           . .?$$$**M&amp;&amp;&amp;Mo&amp;M$$hQ\^..                  </text>
-  <text x="22.0" y="113.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..\n$M*&amp;$$&amp;M&amp;$$$$$&amp;*$$*[&quot;                   </text>
-  <text x="22.0" y="126.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ]$dM&amp;&amp;&amp;M$$$MZOZ&amp;&amp;$&amp;Mk|&lt;\ .                </text>
-  <text x="22.0" y="139.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..}&amp;$$$$$$dvt1]?[c$&amp;$M$z&gt;&quot; .                </text>
-  <text x="22.0" y="152.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ?b)\Cwc|-&lt;&lt;~~+-{L$&amp;&amp;&amp;&amp;!..                 </text>
-  <text x="22.0" y="165.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          .'1tl&gt;)x1+&lt;&gt;ii&gt;&lt;-1c$$a$|...                 </text>
-  <text x="22.0" y="178.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . :l~-__1/vCr-~[|(\rC$&amp;$a,..                  </text>
-  <text x="22.0" y="191.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . I!&gt;l&lt;-}rLuc)CJLZkqq&amp;&amp;j,                     </text>
-  <text x="22.0" y="204.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . ^!I;I!i~-}?[qXcJqaC({!^^`. ..               </text>
-  <text x="22.0" y="217.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          .&quot;;;::l++i;_x))\fuzkt!Ill,'                 </text>
-  <text x="22.0" y="230.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            ^I;l&lt;&gt;~_~)v|&lt;+[\Zj!;&lt;!::::` .             </text>
-  <text x="22.0" y="243.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ^l;&gt;[-_?jYv/]~{co[~&gt;!ll:,;i.              </text>
-  <text x="22.0" y="256.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . \!l!~[+&lt;[vCz1(Y+I^}n&gt;?I&lt;:,i^ .            </text>
-  <text x="22.0" y="269.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            .!!;;!+1tUY/x&amp;&lt;   'l&gt;}\1;^;l .            </text>
-  <text x="22.0" y="282.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..\i+i;:l&lt;](/CUI   .  ,l&lt;i:&quot;,i` .           </text>
-  <text x="22.0" y="295.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                         .  ^&gt;~-]]-](uq$)&gt;&gt;i\ ..';&quot;&quot;:&quot;,II...          </text>
-  <text x="22.0" y="308.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                     ...  &quot;_~&gt;&gt;&lt;_u$$$$$&amp;$$$$1 .. \l!I::::^            </text>
-  <text x="22.0" y="321.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                  ..    .~qQ&lt;&lt;i+]\uYCq$$MaoZt&lt;. . \:li::;!{_  .       </text>
-  <text x="22.0" y="334.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">               ..   .^^^]o$)&lt;&lt;&gt;&lt;+?_+}rJd$&amp;$Lf/+`    \~jnuo$$l' .      </text>
-  <text x="22.0" y="347.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">             ..   ,_\(?}C$kx&gt;ii~++&lt;]||xd&amp;$&amp;Lur/{_I:;;UM(_~}&amp;+&quot;'       </text>
-  <text x="22.0" y="360.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">            .  ;]vZr{_}Ua&amp;&amp;z!!!&lt;~i!~_fZ$&amp;$kUzYx\b$*CrL-'\\,_I;,..     </text>
-  <text x="22.0" y="373.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">           . ;j$dr?+][tq$$q*1llIlIl]cw*$&amp;dZOQXvrZM$$$$]```&quot;lII;&quot;      </text>
-  <text x="22.0" y="386.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">         .. ?$$hcf\|xUZk&amp;$bZ$x[]1fC$qq$oddZQCYXzh$&amp;Mh&amp;(```^li::;`     </text>
-  <text x="22.0" y="399.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">         . }$**$$$$$$$$$$$$do$$$$$$Uw$$&amp;$$MbOCXzk$$$*$/\\\`,~)?;:\ .  </text>
-  <text x="22.0" y="412.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">        . ~$a&amp;$$&amp;&amp;&amp;&amp;M&amp;&amp;$$$$$hma*oopw$&amp;$$$$$$$&amp;aq*$$$M$X_~&lt;&gt;i~k$v&lt;^ .  </text>
-  <text x="22.0" y="425.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">       . i$o&amp;$$$$$$$$$$$$$$$$&amp;**&amp;&amp;$$$$$$$$$$$$$$$$$$$$$$$$$oLpa$x&quot;.   </text>
-  <text x="22.0" y="438.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">      ..'w&amp;M$$$$$$$$$$$$$$$$M*M$$$$&amp;$$$$$$$$$$$$$$$$$$&amp;*MM&amp;$$$oMx^ .  </text>
-  <text x="22.0" y="451.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">      . _$o$$$$$$$$$$$$$$$$M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;&amp;&amp;MM_&quot;..  </text>
-  <text x="22.0" y="464.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">     ..\O&amp;&amp;$$$$$$$$$$$$$$$M$Y)j&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*&amp;/:..  </text>
-  <text x="22.0" y="477.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">     . _$o$$$$$$$$$$$$$$$M$(:l,}*M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;$t: . </text>
-  <text x="22.0" y="490.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">    ..'C&amp;M$$$$$$$$$$$$$$M$v'I1llo&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$M$Z!..</text>
-  <text x="22.0" y="503.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">    . &lt;$*$$$$$$$$$$$$$$$o$+ '' _$*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$a$n\ </text>
-  <text x="22.0" y="516.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">   ...c&amp;M$$$$$$$$$$$$$$$&amp;MU&lt;!&quot;&quot;-LM&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;&amp;dI </text>
+<text x="22.0" y="48.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                                 ...     ..                           </text>
+<text x="22.0" y="61.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                               ..   .`^&quot;`   .....                     </text>
+<text x="22.0" y="74.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                             ..  ^+fUwhomr!.     .                    </text>
+<text x="22.0" y="87.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            .  l\b$$$$$$$$$~I+&lt;;.                     </text>
+<text x="22.0" y="100.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                           . .?$$$**M&amp;&amp;&amp;Mo&amp;M$$hQ\^..                  </text>
+<text x="22.0" y="113.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..\n$M*&amp;$$&amp;M&amp;$$$$$&amp;*$$*[&quot;                   </text>
+<text x="22.0" y="126.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ]$dM&amp;&amp;&amp;M$$$MZOZ&amp;&amp;$&amp;Mk|&lt;\ .                </text>
+<text x="22.0" y="139.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..}&amp;$$$$$$dvt1]?[c$&amp;$M$z&gt;&quot; .                </text>
+<text x="22.0" y="152.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ?b)\Cwc|-&lt;&lt;~~+-{L$&amp;&amp;&amp;&amp;!..                 </text>
+<text x="22.0" y="165.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          .'1tl&gt;)x1+&lt;&gt;ii&gt;&lt;-1c$$a$|...                 </text>
+<text x="22.0" y="178.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . :l~-__1/vCr-~[|(\rC$&amp;$a,..                  </text>
+<text x="22.0" y="191.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . I!&gt;l&lt;-}rLuc)CJLZkqq&amp;&amp;j,                     </text>
+<text x="22.0" y="204.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                        . ^!I;I!i~-}?[qXcJqaC({!^^`. ..               </text>
+<text x="22.0" y="217.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          .&quot;;;::l++i;_x))\fuzkt!Ill,'                 </text>
+<text x="22.0" y="230.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            ^I;l&lt;&gt;~_~)v|&lt;+[\Zj!;&lt;!::::` .             </text>
+<text x="22.0" y="243.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . ^l;&gt;[-_?jYv/]~{co[~&gt;!ll:,;i.              </text>
+<text x="22.0" y="256.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          . \!l!~[+&lt;[vCz1(Y+I^}n&gt;?I&lt;:,i^ .            </text>
+<text x="22.0" y="269.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                            .!!;;!+1tUY/x&amp;&lt;   'l&gt;}\1;^;l .            </text>
+<text x="22.0" y="282.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                          ..\i+i;:l&lt;](/CUI   .  ,l&lt;i:&quot;,i` .           </text>
+<text x="22.0" y="295.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                         .  ^&gt;~-]]-](uq$)&gt;&gt;i\ ..';&quot;&quot;:&quot;,II...          </text>
+<text x="22.0" y="308.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                     ...  &quot;_~&gt;&gt;&lt;_u$$$$$&amp;$$$$1 .. \l!I::::^            </text>
+<text x="22.0" y="321.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">                  ..    .~qQ&lt;&lt;i+]\uYCq$$MaoZt&lt;. . \:li::;!{_  .       </text>
+<text x="22.0" y="334.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">               ..   .^^^]o$)&lt;&lt;&gt;&lt;+?_+}rJd$&amp;$Lf/+`    \~jnuo$$l' .      </text>
+<text x="22.0" y="347.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">             ..   ,_\(?}C$kx&gt;ii~++&lt;]||xd&amp;$&amp;Lur/{_I:;;UM(_~}&amp;+&quot;'       </text>
+<text x="22.0" y="360.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">            .  ;]vZr{_}Ua&amp;&amp;z!!!&lt;~i!~_fZ$&amp;$kUzYx\b$*CrL-'\\,_I;,..     </text>
+<text x="22.0" y="373.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">           . ;j$dr?+][tq$$q*1llIlIl]cw*$&amp;dZOQXvrZM$$$$]```&quot;lII;&quot;      </text>
+<text x="22.0" y="386.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">         .. ?$$hcf\|xUZk&amp;$bZ$x[]1fC$qq$oddZQCYXzh$&amp;Mh&amp;(```^li::;`     </text>
+<text x="22.0" y="399.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">         . }$**$$$$$$$$$$$$do$$$$$$Uw$$&amp;$$MbOCXzk$$$*$/\\\`,~)?;:\ .  </text>
+<text x="22.0" y="412.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">        . ~$a&amp;$$&amp;&amp;&amp;&amp;M&amp;&amp;$$$$$hma*oopw$&amp;$$$$$$$&amp;aq*$$$M$X_~&lt;&gt;i~k$v&lt;^ .  </text>
+<text x="22.0" y="425.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">       . i$o&amp;$$$$$$$$$$$$$$$$&amp;**&amp;&amp;$$$$$$$$$$$$$$$$$$$$$$$$$oLpa$x&quot;.   </text>
+<text x="22.0" y="438.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">      ..'w&amp;M$$$$$$$$$$$$$$$$M*M$$$$&amp;$$$$$$$$$$$$$$$$$$&amp;*MM&amp;$$$oMx^ .  </text>
+<text x="22.0" y="451.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">      . _$o$$$$$$$$$$$$$$$$M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;&amp;&amp;MM_&quot;..  </text>
+<text x="22.0" y="464.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">     ..\O&amp;&amp;$$$$$$$$$$$$$$$M$Y)j&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*&amp;/:..  </text>
+<text x="22.0" y="477.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">     . _$o$$$$$$$$$$$$$$$M$(:l,}*M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;$t: . </text>
+<text x="22.0" y="490.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">    ..'C&amp;M$$$$$$$$$$$$$$M$v'I1llo&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$M$Z!..</text>
+<text x="22.0" y="503.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">    . &lt;$*$$$$$$$$$$$$$$$o$+ '' _$*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$a$n\ </text>
+<text x="22.0" y="516.0" font-size="8.2" fill="#24292e" letter-spacing="0.802" xml:space="preserve">   ...c&amp;M$$$$$$$$$$$$$$$&amp;MU&lt;!&quot;&quot;-LM&amp;$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&amp;&amp;dI </text>
 
-  <!-- name -->
   <text x="224" y="537.0"
         text-anchor="middle" font-size="15" font-weight="700"
         fill="#24292e" letter-spacing="0.4">Lê Đức Anh</text>
   <text x="224" y="554.0"
         text-anchor="middle" font-size="11"
         fill="#0366d6" letter-spacing="0.3">@ldanh270</text>
-
-  <!-- ── RIGHT: code terminal panel ── -->
-  <rect x="444" y="14" width="542" height="552"
-        rx="12" fill="#ffffff" stroke="#e1e4e8" stroke-width="1"/>
-
-  <!-- title bar -->
-  <rect x="444" y="14" width="542" height="34"
-        rx="12" fill="#f6f8fa"/>
-  <rect x="444" y="40" width="542" height="10"
-        fill="#f6f8fa"/>
-
-  <!-- macOS traffic lights -->
-  <circle cx="466" cy="31" r="6" fill="#ff5f57"/>
-  <circle cx="484" cy="31" r="6" fill="#febc2e"/>
-  <circle cx="502" cy="31" r="6" fill="#28c840"/>
-
-  <!-- title -->
-  <text x="715" y="36"
-        text-anchor="middle" font-size="12" fill="#8b949e" letter-spacing="0.4">
-    profile.ts — ldanh270</text>
-
-  <!-- code lines -->
-
-  <text x="460" y="80.0" font-size="12.0"><tspan fill="#d73a49">export </tspan><tspan fill="#d73a49">const </tspan><tspan fill="#6f42c1">LeDucAnh</tspan><tspan fill="#24292e">: </tspan><tspan fill="#6f42c1">Developer </tspan><tspan fill="#d73a49">= </tspan><tspan fill="#24292e">() </tspan><tspan fill="#d73a49">=&gt; </tspan><tspan fill="#24292e">({</tspan></text>
-  <text x="476" y="98.0" font-size="12.0"><tspan fill="#005cc5">username</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="116.0" font-size="12.0"><tspan fill="#005cc5">fullName</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Le Duc Anh&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="134.0" font-size="12.0"><tspan fill="#005cc5">dateOfBirth</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;27/02/2005&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="152.0" font-size="12.0"><tspan fill="#005cc5">location</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Da Nang, Viet Nam&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="170.0" font-size="12.0"><tspan fill="#005cc5">company</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Outfiz - Ohtez&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="188.0" font-size="12.0"><tspan fill="#005cc5">title</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Full Stack Software Engineer&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="206.0" font-size="12.0"><tspan fill="#005cc5">education</tspan><tspan fill="#24292e">: {</tspan></text>
-  <text x="492" y="224.0" font-size="12.0"><tspan fill="#005cc5">highSchool</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Hoang Hoa Tham high school&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="242.0" font-size="12.0"><tspan fill="#005cc5">university</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;FPT University Da Nang&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="260.0" font-size="12.0" fill="#24292e">},</text>
-  <text x="476" y="278.0" font-size="12.0"><tspan fill="#005cc5">major</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;Software Engineering&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="296.0" font-size="12.0"><tspan fill="#005cc5">specialties</tspan><tspan fill="#24292e">: [</tspan></text>
-  <text x="492" y="314.0" font-size="12.0"><tspan fill="#22863a">&quot;Web Development&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Competitive Programming&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="332.0" font-size="12.0"><tspan fill="#22863a">&quot;CI/CD&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;AI Integration&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="350.0" font-size="12.0"><tspan fill="#22863a">&quot;Blockchain&quot;</tspan><tspan fill="#24292e">, </tspan><tspan fill="#22863a">&quot;Embedded - Arduino&quot;</tspan></text>
-  <text x="476" y="368.0" font-size="12.0" fill="#24292e">],</text>
-  <text x="476" y="386.0" font-size="12.0"><tspan fill="#005cc5">socials</tspan><tspan fill="#24292e">: {</tspan></text>
-  <text x="492" y="404.0" font-size="12.0"><tspan fill="#005cc5">website</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;https://ldadev.vercel.app/&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="422.0" font-size="12.0"><tspan fill="#005cc5">github</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;github.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="440.0" font-size="12.0"><tspan fill="#005cc5">linkedin</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;in/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="458.0" font-size="12.0"><tspan fill="#005cc5">telegram</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;t.me/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="476.0" font-size="12.0"><tspan fill="#005cc5">facebook</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;facebook.com/ldanh270&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="492" y="494.0" font-size="12.0"><tspan fill="#005cc5">email</tspan><tspan fill="#24292e">: </tspan><tspan fill="#22863a">&quot;ducanhle.dn@gmail.com&quot;</tspan><tspan fill="#24292e">,</tspan></text>
-  <text x="476" y="512.0" font-size="12.0" fill="#24292e">},</text>
-  <text x="460" y="530.0" font-size="12.0" fill="#24292e">});</text>
-
-  <!-- blinking cursor -->
-  <rect x="460" y="544.0" width="8" height="15" rx="1" fill="#0366d6">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
-
 </svg>
