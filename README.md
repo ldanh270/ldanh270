@@ -13,25 +13,11 @@
 
 <br>
 
-<h1 align="center">PORTFOLIO</h1>
-
-<table align="center" width="100%">
-<tr>
-<td width="62%" align="center" valign="middle">
-  <img src="./portfolio.gif" alt="Animated preview of Lê Đức Anh's portfolio" width="100%" />
-</td>
-<td width="38%" valign="middle">
-  <h3>Selected work &amp; experiments</h3>
-  <p>
-    From e-commerce experiences to community platforms, I like building
-    products that balance a clear visual language with dependable engineering.
-  </p>
-  <p>
-    <a href="https://ldadev.vercel.app/"><strong>Open the full portfolio ↗</strong></a>
-  </p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://ldadev.vercel.app/">
+    <img src="./portfolio.gif" alt="Animated preview of Lê Đức Anh's portfolio" width="100%" />
+  </a>
+</p>
 
 <br>
 
