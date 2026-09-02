@@ -147,9 +147,9 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -190,49 +190,49 @@ Sunday                   880 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   38.69 % 
-Markdown                 8 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
-TypeScript               3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 13 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.60 % 
+Java                     6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+TypeScript               5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Bash                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.21 % 
-Antigravity Desktop      9 hrs               ████████░░░░░░░░░░░░░░░░░   32.87 % 
-VS Code                  4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Codex Vscode             17 hrs 42 mins      ██████████████░░░░░░░░░░░   56.45 % 
+VS Code                  8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Antigravity Desktop      5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 
 🐱‍💻 Projects: 
-finwise                  15 hrs 32 mins      ██████████████░░░░░░░░░░░   56.78 % 
-igs-sfa-be               10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   38.69 % 
-ldanh270                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-igs-sfa-fe               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-obuz-agent               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+finwise                  23 hrs 26 mins      ███████████████████░░░░░░   74.71 % 
+igs-sfa-be               6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+ldanh270                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+igs-sfa-fe               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+obuz-agent               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  27 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 3 mins (95.16%)
+⏱ AI Coding Time: 30 hrs 3 mins (95.77%)
 
-✍️ 26,512 lines written by AI, 25 lines written by hand (99.91% AI-written)
+✍️ 33,231 lines written by AI, 25 lines written by hand (99.92% AI-written)
 
-🔤 8,157,550 Input Tokens, 1,168,827 Output Tokens
+🔤 11,754,224 Input Tokens, 1,637,716 Output Tokens
 
-💵 $95.01 Estimated AI Cost This Week
+💵 $118.38 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 358 AI Prompts
+🧠 70 AI Sessions, 374 AI Prompts
 
-GPT                      26,401 lines        █████████████████████████   98.37 % 
-Codex-Vscode             437 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+GPT                      33,053 lines        ████████████████████████░   98.00 % 
+Codex-Vscode             673 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 8,150 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 15,119 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -248,5 +248,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 03:46:01 UTC
+ Last Updated on 02/09/2026 03:05:02 UTC
 <!--END_SECTION:waka-->
