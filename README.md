@@ -147,9 +147,9 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -190,46 +190,46 @@ Sunday                   880 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 14 hrs 51 mins      ████████████░░░░░░░░░░░░░   46.66 % 
-TypeScript               7 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-JavaScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 13 hrs 48 mins      ████████████░░░░░░░░░░░░░   48.98 % 
+TypeScript               6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Codex Vscode             21 hrs 24 mins      █████████████████░░░░░░░░   67.22 % 
-VS Code                  10 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.78 % 
+Codex Vscode             18 hrs 36 mins      █████████████████░░░░░░░░   66.04 % 
+VS Code                  9 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
 
 🐱‍💻 Projects: 
-finwise                  28 hrs 51 mins      ███████████████████████░░   90.63 % 
-igs-sfa-be               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-ldanh270                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-igs-sfa-fe               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-obuz-agent               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+finwise                  27 hrs 11 mins      ████████████████████████░   96.48 % 
+ldanh270                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+obuz-agent               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+study-assistant          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  31 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 26 mins (95.6%)
+⏱ AI Coding Time: 27 hrs 16 mins (96.77%)
 
-✍️ 35,826 lines written by AI, 29 lines written by hand (99.92% AI-written)
+✍️ 34,214 lines written by AI, 29 lines written by hand (99.92% AI-written)
 
-🔤 14,948,952 Input Tokens, 1,978,447 Output Tokens
+🔤 12,754,541 Input Tokens, 1,789,979 Output Tokens
 
-💵 $116.53 Estimated AI Cost This Week
+💵 $87.91 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 334 AI Prompts
+🧠 54 AI Sessions, 284 AI Prompts
 
-GPT                      35,676 lines        █████████████████████████   98.15 % 
-Codex-Vscode             673 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+GPT                      34,035 lines        █████████████████████████   98.06 % 
+Codex-Vscode             673 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 21,375 characters per prompt
+📚 Verbose Prompter — average 23,605 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
@@ -237,15 +237,15 @@ Codex-Vscode             673 lines           ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TypeScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 03/09/2026 03:06:24 UTC
+ Last Updated on 04/09/2026 03:06:59 UTC
 <!--END_SECTION:waka-->
