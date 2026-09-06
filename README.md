@@ -190,48 +190,48 @@ Sunday                   880 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 12 hrs 19 mins      ████████████░░░░░░░░░░░░░   46.65 % 
-TypeScript               6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-JavaScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 12 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.85 % 
+TypeScript               8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+JavaScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 22 mins      ████████████████░░░░░░░░░   65.80 % 
-VS Code                  9 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.20 % 
+Codex Vscode             19 hrs 30 mins      █████████████████░░░░░░░░   67.70 % 
+VS Code                  9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+Antigravity Desktop      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-finwise                  25 hrs 26 mins      ████████████████████████░   96.31 % 
-ldanh270                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-obuz-agent               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-study-assistant          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+finwise                  26 hrs 5 mins       ███████████████████████░░   90.55 % 
+portfolio                1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+ldanh270                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Obsidian                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  26 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 30 mins (96.56%)
+⏱ AI Coding Time: 28 hrs 23 mins (98.56%)
 
-✍️ 33,397 lines written by AI, 29 lines written by hand (99.91% AI-written)
+✍️ 37,747 lines written by AI, 21 lines written by hand (99.94% AI-written)
 
-🔤 12,163,310 Input Tokens, 1,718,914 Output Tokens
+🔤 13,686,637 Input Tokens, 1,939,321 Output Tokens
 
-💵 $73.05 Estimated AI Cost This Week
+💵 $91.78 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 261 AI Prompts
+🧠 58 AI Sessions, 299 AI Prompts
 
-GPT                      33,206 lines        █████████████████████████   98.01 % 
-Codex-Vscode             673 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+GPT                      37,762 lines        █████████████████████████   98.25 % 
+Codex-Vscode             673 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 24,638 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 23,813 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 03:08:41 UTC
+ Last Updated on 06/09/2026 03:08:16 UTC
 <!--END_SECTION:waka-->
