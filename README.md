@@ -153,9 +153,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 222.8 kB Used in GitHub's Storage 
+> 📦 223.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,455 Contributions in the Year 2026
+> 🏆 1,494 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -166,21 +166,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-🌆 Daytime                2386 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
-🌃 Evening                2257 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌙 Night                  415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+🌞 Morning                1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+🌆 Daytime                2389 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌃 Evening                2275 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌙 Night                  416 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Tuesday                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Wednesday                723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 947 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Saturday                 1245 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Sunday                   906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Tuesday                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Wednesday                728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Thursday                 956 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Saturday                 1245 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Sunday                   906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 ```
 
 
@@ -190,22 +190,46 @@ Sunday                   906 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.08 % 
+TypeScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             2 hrs 39 mins       ██████████████░░░░░░░░░░░   57.32 % 
+VS Code                  1 hr 58 mins        ███████████░░░░░░░░░░░░░░   42.68 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+finwise                  3 hrs 55 mins       █████████████████████░░░░   84.55 % 
+obuz                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+ldanh270                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 38 mins (100.0%)
+
+✍️ 1,274 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,463,944 Input Tokens, 429,860 Output Tokens
+
+💵 $95.66 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 99 AI Prompts
+
+GPT                      1,293 lines         ██████████████████████░░░   89.23 % 
+Codex-Vscode             156 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,648 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -221,5 +245,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 03:38:52 UTC
+ Last Updated on 26/09/2026 03:44:39 UTC
 <!--END_SECTION:waka-->
