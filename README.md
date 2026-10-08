@@ -147,9 +147,9 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -190,48 +190,48 @@ Sunday                   933 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
-Markdown                 5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+TypeScript               5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Markdown                 4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+JSON                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 18 mins      ███████████████████░░░░░░   77.13 % 
-VS Code                  3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Codex Vscode             11 hrs 26 mins      ██████████████████░░░░░░░   71.49 % 
+VS Code                  4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
 
 🐱‍💻 Projects: 
-linko                    12 hrs 13 mins      ██████████████████░░░░░░░   70.90 % 
-finwise                  2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-ohtez-wp                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-coursera-tool            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-obuz-fe                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+linko                    12 hrs 13 mins      ███████████████████░░░░░░   76.45 % 
+obuz-fe                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+ohtez-wp                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+coursera-tool            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+gumi-platform            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  17 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 34 mins (96.11%)
+⏱ AI Coding Time: 14 hrs (87.54%)
 
-✍️ 9,181 lines written by AI, 132 lines written by hand (98.58% AI-written)
+✍️ 8,776 lines written by AI, 2,993 lines written by hand (74.57% AI-written)
 
-🔤 7,557,912 Input Tokens, 1,530,990 Output Tokens
+🔤 6,486,363 Input Tokens, 1,304,828 Output Tokens
 
-💵 $25.82 Estimated AI Cost This Week
+💵 $19.50 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 435 AI Prompts
+🧠 53 AI Sessions, 380 AI Prompts
 
-GPT                      9,343 lines         █████████████████████████   100.00 % 
+GPT                      8,927 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📚 Verbose Prompter — average 10,251 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.42% of changed lines were hand-edited
+🤖 AI-Driven — 74.57% of written lines came from AI
+📚 Verbose Prompter — average 9,408 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 25.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 04:31:44 UTC
+ Last Updated on 08/10/2026 04:43:06 UTC
 <!--END_SECTION:waka-->
