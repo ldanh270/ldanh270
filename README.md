@@ -147,9 +147,9 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -190,48 +190,48 @@ Sunday                   933 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Markdown                 4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-JSON                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+TypeScript               5 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
+Markdown                 4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 26 mins      ██████████████████░░░░░░░   71.49 % 
-VS Code                  4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Codex Vscode             10 hrs 41 mins      █████████████████░░░░░░░░   68.29 % 
+VS Code                  4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
 
 🐱‍💻 Projects: 
-linko                    12 hrs 13 mins      ███████████████████░░░░░░   76.45 % 
-obuz-fe                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-ohtez-wp                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-coursera-tool            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-gumi-platform            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+linko                    11 hrs 42 mins      ███████████████████░░░░░░   74.82 % 
+obuz-fe                  2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+coursera-tool            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+ohtez-wp                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+gumi-platform            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs (87.54%)
+⏱ AI Coding Time: 13 hrs 11 mins (84.35%)
 
-✍️ 8,776 lines written by AI, 2,993 lines written by hand (74.57% AI-written)
+✍️ 8,753 lines written by AI, 2,922 lines written by hand (74.97% AI-written)
 
-🔤 6,486,363 Input Tokens, 1,304,828 Output Tokens
+🔤 6,129,337 Input Tokens, 1,219,947 Output Tokens
 
-💵 $19.50 Estimated AI Cost This Week
+💵 $19.35 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 380 AI Prompts
+🧠 49 AI Sessions, 358 AI Prompts
 
-GPT                      8,927 lines         █████████████████████████   100.00 % 
+GPT                      8,904 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.57% of written lines came from AI
-📚 Verbose Prompter — average 9,408 characters per prompt
+🤖 AI-Driven — 74.97% of written lines came from AI
+📚 Verbose Prompter — average 9,567 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 25.97% of changed lines were hand-edited
+🚀 High AI Trust — 25.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 04:43:06 UTC
+ Last Updated on 09/10/2026 04:46:21 UTC
 <!--END_SECTION:waka-->
