@@ -190,48 +190,48 @@ Sunday                   927 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-JavaScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-PHP                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+TypeScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+JavaScript               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+PHP                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 50 mins       █████████████████░░░░░░░░   69.51 % 
-VS Code                  4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+Codex Vscode             7 hrs 5 mins        ████████████████░░░░░░░░░   65.65 % 
+VS Code                  3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
 
 🐱‍💻 Projects: 
-vocabulary-learning      4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.13 % 
-linko                    3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-obuz-fe                  2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-elimaria-website         2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-coursera-tool            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+vocabulary-learning      4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
+obuz-fe                  2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+elimaria-website         2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+coursera-tool            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+linko                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Windows                  14 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 40 mins (75.43%)
+⏱ AI Coding Time: 7 hrs 28 mins (69.08%)
 
-✍️ 11,195 lines written by AI, 2,968 lines written by hand (79.04% AI-written)
+✍️ 9,557 lines written by AI, 2,959 lines written by hand (76.36% AI-written)
 
-🔤 5,180,899 Input Tokens, 1,108,092 Output Tokens
+🔤 3,330,242 Input Tokens, 874,582 Output Tokens
 
-💵 $8.30 Estimated AI Cost This Week
+💵 $4.04 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 154 AI Prompts
+🧠 15 AI Sessions, 79 AI Prompts
 
-GPT                      11,705 lines        █████████████████████████   100.00 % 
+GPT                      9,991 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.04% of written lines came from AI
-📚 Verbose Prompter — average 5,980 characters per prompt
+🤖 AI-Driven — 76.36% of written lines came from AI
+📚 Verbose Prompter — average 1,516 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.07% of changed lines were hand-edited
+🚀 High AI Trust — 23.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 04:33:03 UTC
+ Last Updated on 13/10/2026 05:40:13 UTC
 <!--END_SECTION:waka-->
