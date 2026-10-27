@@ -155,7 +155,7 @@
 
 > 📦 264.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,713 Contributions in the Year 2026
+> 🏆 1,715 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -166,20 +166,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌆 Daytime                2450 commits        ██████████░░░░░░░░░░░░░░░   38.29 % 
+🌞 Morning                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+🌆 Daytime                2450 commits        ██████████░░░░░░░░░░░░░░░   38.28 % 
 🌃 Evening                2410 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
 🌙 Night                  433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Tuesday                  1028 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Monday                   790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Tuesday                  1029 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Wednesday                763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 Thursday                 961 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 Friday                   551 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Saturday                 1339 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Saturday                 1339 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 Sunday                   967 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 
@@ -190,31 +190,31 @@ Sunday                   967 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 47 mins       ███████████████░░░░░░░░░░   59.26 % 
-Bash                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+TypeScript               3 hrs 18 mins       ██████████████░░░░░░░░░░░   55.93 % 
+Bash                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       ████████████████░░░░░░░░░   62.44 % 
-Codex Vscode             2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+VS Code                  3 hrs 30 mins       ███████████████░░░░░░░░░░   59.36 % 
+Codex Vscode             2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
 
 🐱‍💻 Projects: 
-linko                    2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
-igs-sfa-fe               2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-integrated-hr-and-product1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+linko                    2 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.28 % 
+igs-sfa-fe               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+integrated-hr-and-product1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (38.35%)
+⏱ AI Coding Time: 2 hrs 27 mins (41.49%)
 
-✍️ 2,466 lines written by AI, 97 lines written by hand (96.22% AI-written)
+✍️ 2,466 lines written by AI, 86 lines written by hand (96.63% AI-written)
 
 🔤 1,221,212 Input Tokens, 314,810 Output Tokens
 
@@ -225,10 +225,10 @@ Windows                  6 hrs 24 mins       ███████████�
 GPT                      2,508 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
+🤖 AI-Driven — 96.63% of written lines came from AI
 📚 Verbose Prompter — average 12,947 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.58% of changed lines were hand-edited
+🚀 High AI Trust — 4.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -244,5 +244,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:25:44 UTC
+ Last Updated on 27/10/2026 03:53:11 UTC
 <!--END_SECTION:waka-->
