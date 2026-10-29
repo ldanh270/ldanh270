@@ -147,15 +147,15 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 264.8 kB Used in GitHub's Storage 
+> 📦 264.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,716 Contributions in the Year 2026
+> 🏆 1,717 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -190,47 +190,47 @@ Sunday                   1063 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 53 mins       █████████████░░░░░░░░░░░░   51.14 % 
-PHP                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other                    2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+TypeScript               2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+PHP                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       ████████████████░░░░░░░░░   63.09 % 
-Codex Vscode             2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
+VS Code                  5 hrs 38 mins       ████████████████░░░░░░░░░   64.60 % 
+Codex Vscode             3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.40 % 
 
 🐱‍💻 Projects: 
-linko                    2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
-dev-core-erp             1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-igs-sfa-fe               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-loan-thanh-dung          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-integrated-hr-and-product53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+loan-thanh-dung          3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+linko                    2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+dev-core-erp             1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+integrated-hr-and-product25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+git-editor               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Windows                  7 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (55.24%)
+⏱ AI Coding Time: 7 hrs 5 mins (81.16%)
 
-✍️ 2,594 lines written by AI, 79 lines written by hand (97.04% AI-written)
+✍️ 2,594 lines written by AI, 54 lines written by hand (97.96% AI-written)
 
-🔤 1,801,524 Input Tokens, 385,136 Output Tokens
+🔤 2,141,869 Input Tokens, 455,088 Output Tokens
 
-💵 $11.48 Estimated AI Cost This Week
+💵 $15.06 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 50 AI Prompts
+🧠 20 AI Sessions, 84 AI Prompts
 
 GPT                      2,636 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.04% of written lines came from AI
-📚 Verbose Prompter — average 5,273 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.04% of changed lines were hand-edited
+🤖 AI-Driven — 97.96% of written lines came from AI
+📚 Verbose Prompter — average 3,223 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +246,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:12:45 UTC
+ Last Updated on 29/10/2026 04:34:45 UTC
 <!--END_SECTION:waka-->
