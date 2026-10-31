@@ -147,15 +147,15 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 265.0 kB Used in GitHub's Storage 
+> 📦 266.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,732 Contributions in the Year 2026
+> 🏆 1,764 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -166,21 +166,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1237 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-🌆 Daytime                2514 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌃 Evening                2587 commits        ██████████░░░░░░░░░░░░░░░   38.14 % 
-🌙 Night                  445 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+🌞 Morning                1245 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+🌆 Daytime                2522 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
+🌃 Evening                2601 commits        ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌙 Night                  446 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   830 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Thursday                 1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Friday                   578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Saturday                 1396 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Sunday                   1015 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Monday                   838 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Tuesday                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Thursday                 1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Friday                   580 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Saturday                 1408 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Sunday                   1024 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 
 
@@ -190,47 +190,47 @@ Sunday                   1015 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-TypeScript               3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-PHP                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Other                    4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+TypeScript               3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+PHP                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       ████████████████░░░░░░░░░   64.22 % 
-Codex Vscode             4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
+VS Code                  8 hrs 12 mins       ██████████████░░░░░░░░░░░   56.62 % 
+Codex Vscode             6 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
 
 🐱‍💻 Projects: 
-loan-thanh-dung          5 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
-linko                    2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-git-editor               2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-dev-core-erp             1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-obuz                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+loan-thanh-dung          5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+git-editor               3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+linko                    2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+dev-core-erp             1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+obuz                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  12 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 19 mins (88.65%)
+⏱ AI Coding Time: 13 hrs 2 mins (90.0%)
 
-✍️ 5,417 lines written by AI, 72 lines written by hand (98.69% AI-written)
+✍️ 8,444 lines written by AI, 72 lines written by hand (99.15% AI-written)
 
-🔤 3,472,462 Input Tokens, 704,040 Output Tokens
+🔤 4,177,603 Input Tokens, 818,934 Output Tokens
 
-💵 $28.40 Estimated AI Cost This Week
+💵 $39.45 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 109 AI Prompts
+🧠 36 AI Sessions, 134 AI Prompts
 
-GPT                      5,491 lines         █████████████████████████   100.00 % 
+GPT                      8,518 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.69% of written lines came from AI
-📚 Verbose Prompter — average 2,606 characters per prompt
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,157 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.51% of changed lines were hand-edited
+🚀 High AI Trust — 0.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +246,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:34:54 UTC
+ Last Updated on 31/10/2026 04:17:08 UTC
 <!--END_SECTION:waka-->
