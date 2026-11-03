@@ -147,7 +147,7 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -188,45 +188,45 @@ Sunday                   1077 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    4 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
-TypeScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-PHP                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Other                    4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+TypeScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+PHP                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       █████████████████░░░░░░░░   68.76 % 
-Codex Vscode             3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+VS Code                  9 hrs 8 mins        ██████████████████░░░░░░░   70.22 % 
+Codex Vscode             3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
 
 🐱‍💻 Projects: 
-loan-thanh-dung          5 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.64 % 
-git-editor               3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
-dev-core-erp             1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-linko                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-obuz                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+loan-thanh-dung          6 hrs 31 mins       █████████████░░░░░░░░░░░░   50.09 % 
+git-editor               3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+dev-core-erp             1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+linko                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+obuz                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Windows                  12 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 35 mins (85.22%)
+⏱ AI Coding Time: 11 hrs 11 mins (85.91%)
 
 ✍️ 5,978 lines written by AI, 94 lines written by hand (98.45% AI-written)
 
-🔤 2,956,391 Input Tokens, 504,124 Output Tokens
+🔤 3,563,285 Input Tokens, 545,712 Output Tokens
 
-💵 $31.66 Estimated AI Cost This Week
+💵 $35.42 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 116 AI Prompts
+🧠 31 AI Sessions, 122 AI Prompts
 
 GPT                      6,012 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.45% of written lines came from AI
-📝 Concise Prompter — average 482 characters per prompt
+📝 Concise Prompter — average 471 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 2.05% of changed lines were hand-edited
 ```
@@ -244,5 +244,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 03:11:46 UTC
+ Last Updated on 03/11/2026 05:31:34 UTC
 <!--END_SECTION:waka-->
