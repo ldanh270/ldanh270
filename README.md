@@ -151,9 +151,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 268.5 kB Used in GitHub's Storage 
+> 📦 268.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,842 Contributions in the Year 2026
+> 🏆 1,843 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -188,47 +188,49 @@ Sunday                   1029 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-PHP                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+PHP                      3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
+CSS                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Other                    1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 51 mins       ███████████████░░░░░░░░░░   58.11 % 
-VS Code                  2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.89 % 
+Codex Vscode             7 hrs 39 mins       ███████████████████░░░░░░   76.57 % 
+VS Code                  2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Antigravity Desktop      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🐱‍💻 Projects: 
-zotek8-website           1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.72 % 
-loan-thanh-dung          1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-linko                    59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-git-editor               54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-dev-core-erp             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+loan-thanh-dung          5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.44 % 
+linko                    2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+zotek8-website           1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+git-editor               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+dev-core-erp             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (85.67%)
+⏱ AI Coding Time: 9 hrs 18 mins (92.96%)
 
-✍️ 328 lines written by AI, 29 lines written by hand (91.88% AI-written)
+✍️ 3,252 lines written by AI, 29 lines written by hand (99.12% AI-written)
 
-🔤 2,295,149 Input Tokens, 165,898 Output Tokens
+🔤 3,013,384 Input Tokens, 412,173 Output Tokens
 
-💵 $22.93 Estimated AI Cost This Week
+💵 $26.53 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 89 AI Prompts
+🧠 30 AI Sessions, 134 AI Prompts
 
-GPT                      343 lines           █████████████████████████   100.00 % 
+GPT                      3,376 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.88% of written lines came from AI
-📄 Detailed Prompter — average 1,016 characters per prompt
+🤖 AI-Driven — 99.12% of written lines came from AI
+📚 Verbose Prompter — average 2,031 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.94% of changed lines were hand-edited
+🚀 High AI Trust — 1.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -244,5 +246,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 05:19:39 UTC
+ Last Updated on 07/11/2026 04:50:02 UTC
 <!--END_SECTION:waka-->
