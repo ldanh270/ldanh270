@@ -147,13 +147,13 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 268.6 kB Used in GitHub's Storage 
+> 📦 268.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,897 Contributions in the Year 2026
+> 🏆 1,899 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -188,49 +188,50 @@ Sunday                   1083 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-CSS                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Other                    1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-TypeScript               1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+PHP                      3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Other                    2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+CSS                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+TypeScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 27 mins       ████████████████████░░░░░   78.91 % 
-VS Code                  1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Antigravity Desktop      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Codex Vscode             8 hrs 27 mins       █████████████████░░░░░░░░   69.06 % 
+VS Code                  3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Antigravity Desktop      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🐱‍💻 Projects: 
-loan-thanh-dung          5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.31 % 
-linko                    2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-zotek8-website           1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-git-editor               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-dev-core-erp             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+loan-thanh-dung          5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.65 % 
+zotek8-website           2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+linko                    2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+dev-core-erp             1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+git-editor               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 💻 Operating System: 
-Windows                  10 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 26 mins (97.51%)
+⏱ AI Coding Time: 11 hrs 58 mins (97.82%)
 
-✍️ 3,380 lines written by AI, 2,553 lines written by hand (56.97% AI-written)
+✍️ 3,445 lines written by AI, 2,553 lines written by hand (57.44% AI-written)
 
-🔤 3,516,365 Input Tokens, 437,214 Output Tokens
+🔤 3,432,532 Input Tokens, 437,208 Output Tokens
 
-💵 $28.27 Estimated AI Cost This Week
+💵 $26.69 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 144 AI Prompts
+🧠 45 AI Sessions, 170 AI Prompts
 
-GPT                      3,516 lines         █████████████████████████   100.00 % 
+GPT                      3,587 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.97% of written lines came from AI
-📚 Verbose Prompter — average 2,130 characters per prompt
+⚖️ Balanced with AI — 57.44% of written lines came from AI
+📚 Verbose Prompter — average 1,825 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 59.05% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2026 04:51:37 UTC
+ Last Updated on 10/11/2026 06:05:15 UTC
 <!--END_SECTION:waka-->
