@@ -151,9 +151,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 268.8 kB Used in GitHub's Storage 
+> 📦 269.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,908 Contributions in the Year 2026
+> 🏆 1,937 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -164,21 +164,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1277 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-🌆 Daytime                2537 commits        █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                2661 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  446 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+🌞 Morning                1137 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌆 Daytime                2461 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌃 Evening                2450 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌙 Night                  429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                  1101 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Wednesday                800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Thursday                 1118 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Friday                   583 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Saturday                 1444 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Sunday                   1033 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Monday                   794 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Wednesday                754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Thursday                 987 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 1387 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Sunday                   959 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 
 
@@ -188,50 +188,50 @@ Sunday                   1033 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    7 hrs 1 min         ████████████░░░░░░░░░░░░░   48.87 % 
-PHP                      4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    7 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+PHP                      4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 36 mins      ██████████████████████░░░   87.76 % 
-Codex Vscode             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Antigravity Desktop      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Antigravity              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+VS Code                  13 hrs 55 mins      ██████████████████████░░░   86.80 % 
+Antigravity Desktop      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Antigravity              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-zotek8-website           6 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.95 % 
-dev-core-erp             5 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
-linko                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-loan-thanh-dung          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+dev-core-erp             7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.18 % 
+zotek8-website           6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.12 % 
+portfolio                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+loan-thanh-dung          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  14 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (95.33%)
+⏱ AI Coding Time: 15 hrs 21 mins (95.74%)
 
-✍️ 869 lines written by AI, 2,834 lines written by hand (23.47% AI-written)
+✍️ 741 lines written by AI, 336 lines written by hand (68.8% AI-written)
 
-🔤 4,801,121 Input Tokens, 366,327 Output Tokens
+🔤 2,765,149 Input Tokens, 342,336 Output Tokens
 
-💵 $23.16 Estimated AI Cost This Week
+💵 $18.33 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 212 AI Prompts
+🧠 41 AI Sessions, 267 AI Prompts
 
-GPT                      910 lines           █████████████████████████   100.00 % 
+GPT                      770 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.47% of written lines came from AI
-📝 Concise Prompter — average 437 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 85.86% of changed lines were hand-edited
+🤖 AI-Driven — 68.8% of written lines came from AI
+📝 Concise Prompter — average 259 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 41.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 05:06:32 UTC
+ Last Updated on 15/11/2026 05:00:01 UTC
 <!--END_SECTION:waka-->
