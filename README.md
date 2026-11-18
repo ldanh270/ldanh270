@@ -151,9 +151,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 269.5 kB Used in GitHub's Storage 
+> 📦 269.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,937 Contributions in the Year 2026
+> 🏆 1,938 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -164,21 +164,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1137 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-🌆 Daytime                2461 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                2450 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌙 Night                  429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌞 Morning                1270 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌆 Daytime                2540 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                2625 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌙 Night                  441 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   794 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Tuesday                  1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Thursday                 987 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Saturday                 1387 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Sunday                   959 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Monday                   834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Tuesday                  1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Thursday                 1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Friday                   576 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Saturday                 1458 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Sunday                   1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
 
@@ -188,49 +188,50 @@ Sunday                   959 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    6 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
-PHP                      4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Other                    5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.96 % 
+PHP                      4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████░░░░   85.45 % 
-Antigravity Desktop      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Antigravity              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+VS Code                  12 hrs 30 mins      █████████████████████░░░░   84.67 % 
+Antigravity Desktop      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Antigravity              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-dev-core-erp             6 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.43 % 
-zotek8-website           5 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
-portfolio                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+dev-core-erp             6 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
+zotek8-website           6 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.87 % 
+portfolio                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+SPC-Dispatch-System      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 14 mins (92.65%)
+⏱ AI Coding Time: 13 hrs 14 mins (89.69%)
 
-✍️ 676 lines written by AI, 379 lines written by hand (64.08% AI-written)
+✍️ 776 lines written by AI, 378 lines written by hand (67.24% AI-written)
 
-🔤 1,982,171 Input Tokens, 272,364 Output Tokens
+🔤 2,355,815 Input Tokens, 289,570 Output Tokens
 
-💵 $15.30 Estimated AI Cost This Week
+💵 $13.97 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 235 AI Prompts
+🧠 31 AI Sessions, 243 AI Prompts
 
-GPT                      699 lines           █████████████████████████   100.00 % 
+GPT                      822 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.08% of written lines came from AI
-📝 Concise Prompter — average 272 characters per prompt
+🤖 AI-Driven — 67.24% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 45.31% of changed lines were hand-edited
+🚀 High AI Trust — 41.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 06:45:42 UTC
+ Last Updated on 18/11/2026 06:03:45 UTC
 <!--END_SECTION:waka-->
