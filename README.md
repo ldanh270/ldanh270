@@ -147,7 +147,7 @@
 <h1 align="center">WAKATIME STATS</h1>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-350%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -157,9 +157,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -188,50 +188,48 @@ Sunday                   1009 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.96 % 
-PHP                      4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
-TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Other                    5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
+PHP                      2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+YAML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 30 mins      █████████████████████░░░░   84.67 % 
-Antigravity Desktop      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Antigravity              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  9 hrs 34 mins       █████████████████████░░░░   83.36 % 
+Antigravity Desktop      1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 
 🐱‍💻 Projects: 
-dev-core-erp             6 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.48 % 
-zotek8-website           6 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.87 % 
-portfolio                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-SPC-Dispatch-System      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+dev-core-erp             5 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.28 % 
+zotek8-website           4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.74 % 
+portfolio                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+SPC-Dispatch-System      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  14 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 14 mins (89.69%)
+⏱ AI Coding Time: 10 hrs 20 mins (90.08%)
 
-✍️ 776 lines written by AI, 378 lines written by hand (67.24% AI-written)
+✍️ 773 lines written by AI, 128 lines written by hand (85.79% AI-written)
 
-🔤 2,355,815 Input Tokens, 289,570 Output Tokens
+🔤 1,830,916 Input Tokens, 203,283 Output Tokens
 
-💵 $13.97 Estimated AI Cost This Week
+💵 $7.54 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 243 AI Prompts
+🧠 27 AI Sessions, 188 AI Prompts
 
-GPT                      822 lines           █████████████████████████   100.00 % 
+GPT                      819 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.24% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 41.29% of changed lines were hand-edited
+🤖 AI-Driven — 85.79% of written lines came from AI
+📝 Concise Prompter — average 193 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 15.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -247,5 +245,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 06:03:45 UTC
+ Last Updated on 19/11/2026 06:03:37 UTC
 <!--END_SECTION:waka-->
