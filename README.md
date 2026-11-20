@@ -188,48 +188,48 @@ Sunday                   1009 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
-PHP                      2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-YAML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+PHP                      1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+YAML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+TypeScript               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Other                    1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Bash                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       █████████████████████░░░░   83.36 % 
-Antigravity Desktop      1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+VS Code                  4 hrs 20 mins       ██████████████████░░░░░░░   71.22 % 
+Antigravity Desktop      1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
 
 🐱‍💻 Projects: 
-dev-core-erp             5 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-zotek8-website           4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.74 % 
-portfolio                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-SPC-Dispatch-System      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+dev-core-erp             2 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.85 % 
+portfolio                1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+zotek8-website           1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+ldanh270                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+SPC-Dispatch-System      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Windows                  11 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 20 mins (90.08%)
+⏱ AI Coding Time: 4 hrs 59 mins (82.06%)
 
-✍️ 773 lines written by AI, 128 lines written by hand (85.79% AI-written)
+✍️ 205 lines written by AI, 93 lines written by hand (68.79% AI-written)
 
-🔤 1,830,916 Input Tokens, 203,283 Output Tokens
+🔤 843,682 Input Tokens, 75,037 Output Tokens
 
-💵 $7.54 Estimated AI Cost This Week
+💵 $1.66 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 188 AI Prompts
+🧠 14 AI Sessions, 99 AI Prompts
 
-GPT                      819 lines           █████████████████████████   100.00 % 
+GPT                      228 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.79% of written lines came from AI
-📝 Concise Prompter — average 193 characters per prompt
+🤖 AI-Driven — 68.79% of written lines came from AI
+📝 Concise Prompter — average 178 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 15.91% of changed lines were hand-edited
+🚀 High AI Trust — 34.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,5 +245,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 06:03:37 UTC
+ Last Updated on 20/11/2026 05:53:11 UTC
 <!--END_SECTION:waka-->
