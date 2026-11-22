@@ -151,9 +151,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 269.7 kB Used in GitHub's Storage 
+> 📦 270.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,938 Contributions in the Year 2026
+> 🏆 1,939 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -164,20 +164,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1270 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-🌆 Daytime                2540 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌃 Evening                2625 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌞 Morning                1270 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+🌆 Daytime                2540 commits        █████████░░░░░░░░░░░░░░░░   36.93 % 
+🌃 Evening                2627 commits        ██████████░░░░░░░░░░░░░░░   38.19 % 
 🌙 Night                  441 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Wednesday                785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Thursday                 1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Friday                   576 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Saturday                 1458 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   576 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Saturday                 1460 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
 Sunday                   1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
@@ -188,49 +188,50 @@ Sunday                   1009 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Other                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Bash                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+PHP                      1 hr 55 mins        █████████████░░░░░░░░░░░░   50.25 % 
+TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 13 mins       ██████████████████░░░░░░░   73.36 % 
-Antigravity Desktop      1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  3 hrs 33 mins       ███████████████████████░░   93.02 % 
+Antigravity Desktop      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-dev-core-erp             2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
-zotek8-website           2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-portfolio                1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-SPC-Dispatch-System      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-ldanh270                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+zotek8-website           2 hrs               █████████████░░░░░░░░░░░░   52.40 % 
+dev-core-erp             1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+SPC-Dispatch-System      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+README.md                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+ldanh270                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 1 min (84.65%)
+⏱ AI Coding Time: 2 hrs 55 mins (76.63%)
 
-✍️ 260 lines written by AI, 93 lines written by hand (73.65% AI-written)
+✍️ 260 lines written by AI, 44 lines written by hand (85.53% AI-written)
 
-🔤 1,131,360 Input Tokens, 94,446 Output Tokens
+🔤 885,561 Input Tokens, 73,863 Output Tokens
 
-💵 $1.56 Estimated AI Cost This Week
+💵 $0.89 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 128 AI Prompts
+🧠 15 AI Sessions, 60 AI Prompts
 
 GPT                      283 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.65% of written lines came from AI
-📝 Concise Prompter — average 175 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 29.78% of changed lines were hand-edited
+🤖 AI-Driven — 85.53% of written lines came from AI
+📝 Concise Prompter — average 179 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 13.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +247,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 05:48:45 UTC
+ Last Updated on 22/11/2026 05:18:34 UTC
 <!--END_SECTION:waka-->
