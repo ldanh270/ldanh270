@@ -188,49 +188,49 @@ Sunday                   1059 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      1 hr 55 mins        █████████████░░░░░░░░░░░░   51.91 % 
-TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Other                    40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+PHP                      1 hr 25 mins        ███████████████░░░░░░░░░░   58.28 % 
+TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 30 mins       ████████████████████████░   94.67 % 
-Antigravity Desktop      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  2 hrs 15 mins       ███████████████████████░░   92.39 % 
+Antigravity Desktop      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-zotek8-website           2 hrs               ██████████████░░░░░░░░░░░   54.12 % 
-dev-core-erp             1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-SPC-Dispatch-System      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-README.md                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+zotek8-website           1 hr 25 mins        ███████████████░░░░░░░░░░   58.31 % 
+dev-core-erp             40 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+README.md                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+SPC-Dispatch-System      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 51 mins (77.27%)
+⏱ AI Coding Time: 1 hr 57 mins (80.33%)
 
-✍️ 260 lines written by AI, 1 lines written by hand (99.62% AI-written)
+✍️ 205 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 844,750 Input Tokens, 72,436 Output Tokens
+🔤 573,839 Input Tokens, 53,041 Output Tokens
 
-💵 $0.80 Estimated AI Cost This Week
+💵 $0.66 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 58 AI Prompts
+🧠 8 AI Sessions, 31 AI Prompts
 
-GPT                      283 lines           █████████████████████████   100.00 % 
+GPT                      228 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📝 Concise Prompter — average 182 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.7% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +246,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 05:57:40 UTC
+ Last Updated on 24/11/2026 08:36:00 UTC
 <!--END_SECTION:waka-->
