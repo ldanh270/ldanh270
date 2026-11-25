@@ -188,49 +188,45 @@ Sunday                   1059 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      1 hr 25 mins        ███████████████░░░░░░░░░░   58.28 % 
-TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JSON                     11 mins             █████████████████░░░░░░░░   66.60 % 
+Other                    5 mins              ████████░░░░░░░░░░░░░░░░░   33.40 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ███████████████████████░░   92.39 % 
-Antigravity Desktop      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Antigravity Desktop      11 mins             █████████████████░░░░░░░░   66.60 % 
+VS Code                  5 mins              ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-zotek8-website           1 hr 25 mins        ███████████████░░░░░░░░░░   58.31 % 
-dev-core-erp             40 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-README.md                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-SPC-Dispatch-System      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+dev-core-erp             11 mins             █████████████████░░░░░░░░   66.60 % 
+README.md                5 mins              ████████░░░░░░░░░░░░░░░░░   33.18 % 
+zotek8-website           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (80.33%)
+⏱ AI Coding Time: 16 mins (100.0%)
 
-✍️ 205 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 573,839 Input Tokens, 53,041 Output Tokens
+🔤 100,920 Input Tokens, 1,269 Output Tokens
 
-💵 $0.66 Estimated AI Cost This Week
+💵 $0.21 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 31 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-GPT                      228 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 25 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,5 +242,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 08:36:00 UTC
+ Last Updated on 25/11/2026 07:10:45 UTC
 <!--END_SECTION:waka-->
